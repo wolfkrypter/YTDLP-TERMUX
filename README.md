@@ -1,6 +1,6 @@
 # YTDLP-TERMUX
 YTDLP-TERMUX ejecuta de forma
-legible YT-DLP
+legible YT-DLP en Termux.
 
 <h2>Ejecución en Termux:</h2>
 <h5>Clonación de repositorio:</h5>

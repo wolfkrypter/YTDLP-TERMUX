@@ -24,7 +24,7 @@ echo -e "\e[0;32m" "\n\nDeslice hacía arriba e observe e elija el ID con la res
 
 echo -e "\e[0;35m" "\n\n[INFORMACIÓN/ID]"
 
-echo -e "\e[0;32m" "\n\n\nLos formatos de audio y video disponibles se muestran resaltados en blanco, y en un orden de calidad de menor a mayor hacia abajo, o de baja a media y alta calidad\n\n\n"
+echo -e "\e[0;32m" "\n\n\nLos formatos de audio y video disponibles se muestran resaltados en verde con el tamaño de archivo en blanco, y en un orden de calidad de menor a mayor hacia abajo, o de baja a media y alta calidad\n\n\n"
 
 echo -e "\e[0;33m" "\n\nDigite el ID/VIDEO:"
 read v

@@ -12,7 +12,7 @@ echo -e "\e[0;35m" "\n\n[YT-DLP-TERMUX/EJECUTANDOSE]\n\n"
 echo -e "\e[0;33m" "\n\nEjemplo/URL: \n"
 echo -e "\e[0;33m" "\n\nPlataformas: Facebook,Youtube,Instagram,etcétera."
 echo -e "\e[0;32m" "https://m.youtube.com/watch?v=RgKAFK5djSk\n\n\n\n"
-echo -e "\n\n\nCopie la url de la plataforma de streaming que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL:\n\n"
+echo -e "\e[0;33m" "\n\n\nCopie la url de la plataforma de streaming que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL:\n\n"
 echo -e "\e[0;35m" "\n\nURL:"
 read url
 
@@ -21,6 +21,7 @@ sleep 4
 yt-dlp --list-formats $u
 
 echo -e "\e[0;35m" "\n\n\n[INFORMACIÓN/IDS | LISTA => FORMATOS]"
+
 echo -e "\e[0;32m" "\n\nDeslice hacía arriba e observe e elija el ID con la resolución y la calidad de su preferencia de audio y video e ingrese en ID/VIDEO y ID/AUDIO"
 
 echo -e "\e[0;35m" "\n\n[INFORMACIÓN/IDS | LISTA => FORMATOS]"

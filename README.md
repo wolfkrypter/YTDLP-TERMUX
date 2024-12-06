@@ -4,8 +4,7 @@ legible YT-DLP
 
 <h2>Ejecución en Termux:</h2>
 <h5>Clonación de repositorio</h5>
-<p>~ $ git clone https://github.com/wolfkrypter/YTDLP-TERMUX.git && cd YTDLP-TERMUX</p>
-<p>~ $ bash install.sh</p>
+<p>~ $ git clone https://github.com/wolfkrypter/YTDLP-TERMUX.git && cd YTDLP-TERMUX && bash install.sh</p>
 <h5>Ejecución de extracción de AUDIO:</h5>
 <p>~ $ bash Start-audio.sh</p>
 

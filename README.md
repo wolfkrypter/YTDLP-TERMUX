@@ -1,5 +1,5 @@
 # YTDLP-TERMUX
-YT-DLP-TERMUX ejecuta de forma
+YTDLP-TERMUX ejecuta de forma
 legible YT-DLP
 
 <h2>Ejecución en Termux:</h2>

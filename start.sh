@@ -1,4 +1,3 @@
-#!/bin/bash
 echo -e "\e[0;33m" "\n\nYT-DLP-TERMUX\n\n\n\n"
 echo -e "\e[0;35m" "\n\nINF:\n\n"
 echo -e "\e[0;32m" "YT-DLP-TERMUX ejecuta de forma legible o para un público general el extractor multiplaforma de urlstream YT-DLP\n\n\n"

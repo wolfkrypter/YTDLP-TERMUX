@@ -3,7 +3,7 @@ echo -e "\e[0;32m" "\nInf/Exit/Cancel/Logout:\e[0;33m CTRL+C"
 echo -e "\e[0;35m" "\n\nINF:\n\n"
 echo -e "\e[0;32m" "YT-DLP-TERMUX ejecuta de forma legible o para un público general el extractor multiplaforma de urlstream YT-DLP\n\n\n"
 
-echo -e "\e[0;33m" "\n\n\nAlmacenamiento de Video:\n\n\n"
+echo -e "\e[0;33m" "\n\n\nAlmacenamiento de Videos:\n\n\n"
 echo -e "\e[0;32m" "\n\nYT-DLP-TERMUX dirige todas las descargas directamente al directorio de DESCARGAS automáticamente\n\n\n"
 yes | termux-setup-storage
 

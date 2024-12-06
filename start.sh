@@ -5,9 +5,11 @@ echo -e "\e[0;32m" "YT-DLP-TERMUX ejecuta de forma legible o para un público ge
 echo -e "\e[0;32m" "\n\n\nAlmacenamiento de Video:\n\n\n"
 echo -e "\e[0;32m" "\n\nYT-DLP-TERMUX dirige todas las descargas directamente al directorio de DESCARGAS automáticamente\n\n\n"
 yes | termux-setup-storage
-cd /data/data/com.termux/files/home/storage/downloads
 
 echo -e "\e[0;35m" "\n\n[YT-DLP-TERMUX/EJECUTANDOSE]\n\n"
+sleep 2
+cd /storage/emulated/0/Download
+
 
 echo -e "\e[0;33m" "\n\nEjemplo/URL: \n\n"
 echo -e "\e[0;32m" "https://m.youtube.com/watch?v=RgKAFK5djSk\n"
@@ -51,4 +53,4 @@ echo -e "\e[0;35m" "\n\n\n[Descarga/finalizada]\n\n\n"
 echo -e "\e[0;33m" "\nFrase de gracia, devoción y fe:"
 
 echo -e "\e[0;34m" "\n\nJesucristo viene pronto"
- echo -e "\e[0;31m" "\n\nMateo 24:25, Author: Belial;\n\n\n
+ echo -e "\e[0;31m" "\n\nMateo 24:25, Author: Belial;\n\n\n"

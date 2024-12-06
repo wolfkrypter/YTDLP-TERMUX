@@ -18,7 +18,7 @@ read url
 
 echo -e "\e[0;32m" "\n\n\n"
 sleep 4
-yt-dlp --list-formats $url
+yt-dlp --list-formats $u
 
 echo -e "\e[0;35m" "\n\n\n[INFORMACIÓN/ID]"
 echo -e "\e[0;32m" "\n\nDeslice hacía arriba e observe e elija el ID con la resolución y la calidad de su preferencia de audio y video e ingrese en ID/VIDEO y ID/AUDIO"
@@ -36,7 +36,7 @@ read a
 
 
 echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
-yt-dlp -f $v+$a --no-keep-video $url
+yt-dlp -f $v+$a --no-keep-video $u
 
 
 

@@ -8,3 +8,5 @@ legible YT-DLP
 <p>~ $ bash install.sh && bash start.sh</p>
 
 <img src="https://i.imgur.com/cyFlKjI.jpeg" alt="YT-DLP-TERMUX">
+
+<img src="https://i.imgur.com/YSKR6TP.jpeg" alt="YT-DLP-TERMUX">

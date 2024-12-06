@@ -15,21 +15,23 @@ echo -e "\n\n\nCopie y pegue en URL:\n\n"
 echo -e "\e[0;35m" "\n\nURL:"
 read url
 
-echo -e "\e[0;32m" "\n\n\n"
+echo -e "\e[0;32m" "\n\n\n[Procesando | IDS | LISTA => FORMATOS]\n\n\n"
 sleep 4
 yt-dlp --list-formats $u
 
-echo -e "\e[0;35m" "\n\n\n[INFORMACIÓN/ID]"
+echo -e "\e[0;35m" "\n\n\n[INFORMACIÓN/IDS | LISTA => FORMATOS]"
 echo -e "\e[0;32m" "\n\nDeslice hacía arriba e observe e elija el ID con la resolución y la calidad de su preferencia de audio y video e ingrese en ID/VIDEO y ID/AUDIO"
 
-echo -e "\e[0;35m" "\n\n[INFORMACIÓN/ID]"
+echo -e "\e[0;35m" "\n\n[INFORMACIÓN/IDS | LISTA => FORMATOS]"
 
-echo -e "\e[0;32m" "\n\n\nLos formatos de audio y video disponibles se muestran resaltados en verde con el tamaño de archivo en blanco, y en un orden de calidad de menor a mayor hacia abajo, o de baja a media y alta calidad\n\n\n"
+echo -e "\e[0;32m" "\n\n\nLos IDs de los formatos de audio y video se encuentran resaltados en verde con el tamaño de archivo en blanco, y en un orden de calidad de arriba a hacía abajo de menor a mayor, o de baja a media y alta calidad.\n\n\n"
+
+echo -e "\e[0;31m" "\n\n\nEjemplo | ID/VIDEO: 137\n"
 
 echo -e "\e[0;33m" "\n\nDigite el ID/VIDEO:"
 read v
 
-
+echo -e "\e[0;31m" "\n\n\nEjemplo | ID/AUDIO: 251\n"
 echo -e "\e[0;33m" "\n\nDigite el ID/AUDIO:"
 read a
 

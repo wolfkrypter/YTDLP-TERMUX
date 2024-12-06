@@ -9,7 +9,7 @@ cd /data/data/com.termux/files/home/storage/downloads
 
 echo -e "\e[0;35m" "\n\n[YT-DLP-TERMUX/EJECUTANDOSE]\n\n"
 
-echo -e "\e[0;33m" "\n\nEjemplo/URL: \n"
+echo -e "\e[0;33m" "\n\nEjemplo/URL: \n\n"
 echo -e "\e[0;32m" "https://m.youtube.com/watch?v=RgKAFK5djSk\n"
 echo -e "\e[0;33m" "\n\nPlataformas: Facebook,Youtube,Instagram,etcétera."
 echo -e "\e[0;33m" "\n\n\nCopie la url de la plataforma de streaming que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL:\n\n"

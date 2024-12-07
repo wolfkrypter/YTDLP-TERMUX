@@ -23,17 +23,19 @@ read u
 
 
 echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
-yt-dlp --audio-quality 0 --extract-audio --audio-format mp3 $u
+
+echo -e "\e[0;32m" "\n"
+yt-dlp --no-warnings --audio-quality 0 --extract-audio --audio-format mp3 $u
 
 
 
 echo -e "\e[0;35m" "\n\n\n[Proceso/finalizado]\n\n\n"
 
 echo -e "\e[0;35m" "[Inf/YTDLP-TERMUX]"
-echo -e "\e[0;33m" "\n\n=> Si la extracción fue exitosa, omita reintentar de nuevo ante un posible error.\n\n=> Si ocurre un error y finalizo el proceso sin obtener la extracción de la urlstream en formato almacenable en el directorio de DESCARGAS por defecto, verifique su conexión, la url, y constate la información ingresada si ocurren errores, en el proceso.\n\n• Si ocurren errores que requieran autenticación de cuenta o usuario omita esa plataforma, e intente extraer con una urlstream de otra plataforma de streaming el mismo tema músical,etcétera, en formato legible e almacenable de audio en formato Mp3."
+echo -e "\e[0;33m" "\n\n=> Si la extracción fue exitosa, omita reintentar de nuevo ante un posible error.\n\n=> Si ocurre un error y finalizo el proceso sin obtener la extracción de la urlstream en formato almacenable en el directorio de DESCARGAS por defecto, verifique su conexión, la url, y constate la información ingresada si ocurren errores, en el proceso.\n\n• Si ocurren errores que requieran autenticación de cuenta o usuario, o omita esa plataforma, e intente extraer con una urlstream de otra plataforma de streaming el mismo tema músical,etcétera, en formato legible e almacenable de audio en formato Mp3."
 
 echo -e "\e[0;33m" "\n\n\nFrase de gracia, devoción y fe:"
 
 echo -e "\e[0;34m" "\n\nJesucristo viene pronto"
  echo -e "\e[0;31m" "\n\nMateo 24:25, Author: Belial;\n\n\n"
-cd /data/data/com.termux/files/home/YTDLP-TERMUX
+cd /data/data/com.termux/files/home/YTDLP-TERMU

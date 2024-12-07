@@ -10,6 +10,7 @@ legible YT-DLP en Termux.
 
 <h5>Ejecución de extracción de VIDEO:</h5>
 <p>~ $ bash Start-video.sh</p>
-<img src="https://i.imgur.com/cyFlKjI.jpeg" alt="YT-DLP-TERMUX">
+<img src="https://i.imgur.com/cyFlKjI.jpeg" alt="YTDLP-TERMUX">
 
-<img src="https://i.imgur.com/YSKR6TP.jpeg" alt="YT-DLP-TERMUX">
+<img src="https://i.imgur.com/YSKR6TP.jpeg" alt="YTDLP-TERMUX">
+<img src="https://i.imgur.com/gWkypps.jpeg" alt="YTDLP-TERMUX">

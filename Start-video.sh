@@ -14,8 +14,8 @@ cd /storage/emulated/0/Download
 
 echo -e "\e[0;33m" "\n\nEjemplo/URL: \n\n"
 echo -e "\e[0;32m" "https://m.youtube.com/watch?v=RgKAFK5djSk\n"
-echo -e "\e[0;31m" "\n\nPlataformas:\e[0;33m Facebook,Youtube,Instagram,etcétera."
-echo -e "\e[0;31m" "\n\n\n[INF/YTDLP-TERMUX]\e[0;33m\n\n\nCopie la url de la plataforma de streaming que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL.\n\n"
+echo -e "\e[0;33m" "\n\nPlataformas:\e[0;33m Facebook,Youtube,Instagram,etcétera."
+echo -e "\e[0;31m" "\n\n\n[INF/YTDLP-TERMUX]\e[0;32m\n\n\nCopie la url de la plataforma de streaming que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL.\n\n"
 echo -e "\e[0;35m" "\n\nURL:"
 read u
 
@@ -42,7 +42,7 @@ read a
 
 
 echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
-yt-dlp -f $v+$a --no-keep-video $u
+yt-dlp --no-warnings -f $v+$a --no-keep-video $u
 
 
 

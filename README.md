@@ -13,4 +13,5 @@ legible YT-DLP en Termux.
 <img src="https://i.imgur.com/cyFlKjI.jpeg" alt="YTDLP-TERMUX">
 
 <img src="https://i.imgur.com/YSKR6TP.jpeg" alt="YTDLP-TERMUX">
+<h4>BUG/YTDLP-TERMUX SOLUCIONADO:
 <img src="https://i.imgur.com/gWkypps.jpeg" alt="YTDLP-TERMUX">

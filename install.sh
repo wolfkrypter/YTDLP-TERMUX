@@ -1,4 +1,4 @@
-echo -e "\e[035m"  "Instalando  y actualizando paquetes y dependencias por defecto de ermux"
+echo -e "\e[035m"  "Instalando  y actualizando paquetes y dependencias por defecto de Termux"
 yes | apt update && yes | apt upgrade
 
 echo -e "\e[033m" "Permiso de acceso de almacenamiento a Termux\n"

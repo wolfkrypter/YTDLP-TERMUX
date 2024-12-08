@@ -19,15 +19,15 @@ legible YT-DLP en Termux.
 <p>~ $ bash Start-multiplataforma.sh</p>
 <img src="https://i.imgur.com/vQ2aYYF.jpeg" alt="YTDLP-TERMUX">
 
-<h4>Desinstalación del repositorio o YTDLP:</h4>
-<p>Eliminación unitaria:</p>
+<h4>Desinstalación del repositorio o YTDLP-TERMUX:</h4>
+<h5>Eliminación unitaria:</h5>
 <p>~ $ bash install</p>
 <p>~ $ yes | rm -r install.sh</p>
 <p>~ $ yes | rm -r uninstall.sh</p>
 <p>~ $ yes | rm -r README.md</p>
 <p>~ $ cd ..</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX</p>
-<p>Eliminación pluritaria:</p>
+<h5>Eliminación pluritaria:</h5>
 <p>~ $ cd ..</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX</p>
 

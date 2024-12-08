@@ -14,5 +14,17 @@ yes | pkg install ffmpeg
 echo -e "\e[034m"  "\n\nInstalando YT-DLP\n\n"
 yes | pip install yt-dlp
 
+git clone https://github.com/wolfkrypter/YTDLP-TERMUX.git
+
+cd YTDLP-TERMUX
+
+
+chmod +x Start-youtube.sh
+chmod +x Start-audio.sh
+chmod +x Start-multiplataforma.sh
+mv Start-youtube.sh /data/data/com.termux/files/usr/bin
+mv Start-audio.sh /data/data/com.termux/files/usr/bin
+mv Start-multiplataforma.sh /data/data/com.termux/files/usr/bin
+
 echo -e "\e[0;31m" "\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', e utilice según su preferencia.\n\n"
 

@@ -11,7 +11,7 @@ legible YT-DLP en Termux.
 <h5>Ejecución de extracción de VIDEO/YOUTUBE:</h5>
 <p>~ $ bash Start-youtube.sh</p>
 <h5>Ejecución de extracción de VIDEO/MULTIPLATAFORMA:</h5>
-<p>~ $ bash Start-multiplaforma.sh</p>
+<p>~ $ bash Start-multiplataforma.sh</p>
 <img src="https://i.imgur.com/cyFlKjI.jpeg" alt="YTDLP-TERMUX">
 
 <img src="https://i.imgur.com/YSKR6TP.jpeg" alt="YTDLP-TERMUX">

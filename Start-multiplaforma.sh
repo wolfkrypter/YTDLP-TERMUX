@@ -14,7 +14,7 @@ cd /storage/emulated/0/Download
 
 echo -e "\e[0;33m" "\n\nEjemplo/URL: \n\n"
 echo -e "\e[0;32m" "https://www.facebook.com/100066604305115/videos/3906285049647051/?mibextid=rS40aB7S9Ucbxw6v\n"
-echo -e "\e[0;33m" "\n\nPlataformas:\e[0;33m Facebook,Instagram,etcétera."
+echo -e "\e[0;31m" "\n\nPlataformas:\e[0;33m Facebook,Instagram,etcétera."
 echo -e "\e[0;31m" "\n\n\n[INF/YTDLP-TERMUX]\e[0;32m\n\n\nCopie la url de la plataforma de streaming que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL.\n\n"
 echo -e "\e[0;35m" "\n\nURL:"
 read u

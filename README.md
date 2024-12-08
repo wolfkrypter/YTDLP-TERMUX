@@ -7,7 +7,7 @@ legible YT-DLP en Termux.
 <p>~ $ git clone https://github.com/wolfkrypter/YTDLP-TERMUX.git && cd YTDLP-TERMUX && bash install.sh</p>
 <h5>Ejecución de extracción de AUDIO:</h5>
 <p>~ $ bash Start-audio.sh</p>
-
+<img src="https://i.imgur.com/GFvLV9R.jpeg" alt="YTDLP-TERMUX">
 <h5>Ejecución de extracción de VIDEO/YOUTUBE:</h5>
 <p>~ $ bash Start-youtube.sh</p>
 

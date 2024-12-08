@@ -1,4 +1,4 @@
-7# YTDLP-TERMUX
+# YTDLP-TERMUX
 YTDLP-TERMUX ejecuta de forma
 legible YT-DLP en Termux.
 

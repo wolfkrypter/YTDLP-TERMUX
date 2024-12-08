@@ -3,8 +3,10 @@ YTDLP-TERMUX ejecuta de forma
 legible YT-DLP en Termux.
 
 <h2>Ejecución en Termux:</h2>
-<h5>Instalación de repositorio:</h5>
+<h4>Instalación de repositorio:</h4>
 <p>~ $ bash install</p>
+
+<h4>Ejecuciones disponibles del repositorio predeterminadas:</h4>
 <h5>Ejecución de extracción de AUDIO:</h5>
 <p>~ $ bash Start-audio.sh</p>
 <img src="https://i.imgur.com/GFvLV9R.jpeg" alt="YTDLP-TERMUX">

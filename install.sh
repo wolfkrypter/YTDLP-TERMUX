@@ -1,7 +1,7 @@
 echo -e "\e[035m"  "Instalando  y actualizando paquetes y dependencias por defecto de Termux"
 yes | apt update && yes | apt upgrade
 
-echo -e "\e[033m" "Permiso de acceso de almacenamiento a Termux\n"
+echo -e "\e[033m" "Permiso de acceso de almacenamiento a Termux automatizado ejecutado\n"
 sleep 2
 yes | termux-setup-storage 
 
@@ -14,5 +14,5 @@ yes | pkg install ffmpeg
 echo -e "\e[034m"  "Instalando YT-DLP\n"
 pip install yt-dlp
 
-echo -e "\e[0;31m" "Finalizo el proceso de instalación "
+echo -e "\e[0;31m" "\n\nFinalizo el proceso de instalación"
 

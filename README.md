@@ -8,8 +8,10 @@ legible YT-DLP en Termux.
 <h5>Ejecución de extracción de AUDIO:</h5>
 <p>~ $ bash Start-audio.sh</p>
 
-<h5>Ejecución de extracción de VIDEO:</h5>
-<p>~ $ bash Start-video.sh</p>
+<h5>Ejecución de extracción de VIDEO/Youtube:</h5>
+<p>~ $ bash Start-youtube.sh</p>
+<h5>Ejecución de extracción de VIDEO/Multiplataforma:</h5>
+<p>~ $ bash Start-multiplaforma.sh</p>
 <img src="https://i.imgur.com/cyFlKjI.jpeg" alt="YTDLP-TERMUX">
 
 <img src="https://i.imgur.com/YSKR6TP.jpeg" alt="YTDLP-TERMUX">

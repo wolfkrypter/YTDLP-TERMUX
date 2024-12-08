@@ -19,6 +19,7 @@ legible YT-DLP en Termux.
 <p>~ $ bash Start-multiplataforma.sh</p>
 <img src="https://i.imgur.com/vQ2aYYF.jpeg" alt="YTDLP-TERMUX">
 
+<h4>Desinstalación del repositorio o YTDLP:</h4>
 </br><h4>BUG/YTDLP-TERMUX 1.1 | SOLUCIONADO 1.2:</h4>
 <h5>1.1</h5>
 <img src="https://i.imgur.com/gWkypps.jpeg" alt="YTDLP-TERMUX">

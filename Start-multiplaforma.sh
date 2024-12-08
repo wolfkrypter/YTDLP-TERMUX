@@ -13,24 +13,23 @@ cd /storage/emulated/0/Download
 
 
 echo -e "\e[0;33m" "\n\nEjemplo/URL: \n\n"
-echo -e "\e[0;32m" "https://urlfacebook.com/urlstreaming\n"
+echo -e "\e[0;32m" "https://www.facebook.com/100066604305115/videos/3906285049647051/?mibextid=rS40aB7S9Ucbxw6v\n"
 echo -e "\e[0;33m" "\n\nPlataformas:\e[0;33m Facebook,Instagram,etcétera."
 echo -e "\e[0;31m" "\n\n\n[INF/YTDLP-TERMUX]\e[0;32m\n\n\nCopie la url de la plataforma de streaming que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL.\n\n"
 echo -e "\e[0;35m" "\n\nURL:"
 read u
 
-echo -e "\e[0;32m" "\n\n\n[Procesando | IDS | LISTA => FORMATOS]\n\n\n"
+echo -e "\e[0;32m" "\n\n\n[Procesando | IDS | LISTA ==> RESOLUCIONES]\n\n\n"
 sleep 4
 yt-dlp --list-formats $u
 
-echo -e "\e[0;35m" "\n\n\n[INFORMACIÓN/IDS | LISTA => FORMATOS]"
+echo -e "\e[0;35m" "\n\n\n[INFORMACIÓN/IDS | LISTA ==> RESOLUCIONES]"
 
 echo -e "\e[0;32m" "\n\nDeslice hacía arriba e observe e elija el ID con la resolución y la calidad de su preferencia y digite en el ID/URL."
 
-echo -e "\e[0;35m" "\n\n[INFORMACIÓN/IDS | LISTA => FORMATOS]"
 
 
-echo -e "\e[0;31m" "\n\n\nEjemplo | ID/URL: hls-1080p\n"
+echo -e "\e[0;31m" "\n\n\nEjemplo | ID/URL: 978692127419239v\n"
 
 echo -e "\e[0;33m" "\n\nDigite el ID/URL:"
 read uv

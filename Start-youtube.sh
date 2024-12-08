@@ -19,7 +19,7 @@ echo -e "\e[0;35m" "\n\nURL:"
 read u
 
 echo -e "\e[0;32m" "\n\n\n[Procesando | IDS | LISTA => FORMATOS]\n\n\n"
-sleep 4
+sleep 2
 yt-dlp --list-formats $u
 
 echo -e "\e[0;35m" "\n\n\n[INFORMACIÓN/IDS | LISTA => FORMATOS]"

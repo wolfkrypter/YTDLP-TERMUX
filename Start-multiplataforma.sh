@@ -38,7 +38,7 @@ read iv
 
 
 echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
-yt-dlp --format iv --no-keep-video $u
+yt-dlp --no-warnings -f $iv --no-keep-video $u
 
 
 

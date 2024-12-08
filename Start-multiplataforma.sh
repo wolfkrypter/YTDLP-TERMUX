@@ -32,13 +32,13 @@ echo -e "\e[0;32m" "\n\nDeslice hacía arriba e observe e elija el ID con la res
 echo -e "\e[0;31m" "\n\n\nEjemplo | ID/URL: 978692127419239v\n"
 
 echo -e "\e[0;33m" "\n\nID/URL:"
-read uv
+read iv
 
 
 
 
 echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
-yt-dlp --no-warnings -f uv --no-keep-video $u
+yt-dlp --format iv --no-keep-video $u
 
 
 

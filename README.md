@@ -8,15 +8,15 @@ legible YT-DLP en Termux.
 
 <h4>Ejecuciones predeterminadas y disponibles del repositorio:</h4>
 <h5>Ejecución de extracción de AUDIO:</h5>
-<p>~ $ bash Start-audio.sh</p>
+<p>~ $ Start-audio.sh</p>
 <img src="https://i.imgur.com/GFvLV9R.jpeg" alt="YTDLP-TERMUX">
 <h5>Ejecución de extracción de VIDEO/YOUTUBE:</h5>
-<p>~ $ bash Start-youtube.sh</p>
+<p>~ $ Start-youtube.sh</p>
 
 <img src="https://i.imgur.com/dVso81D.jpeg" alt="YTDLP-TERMUX">
 
 <h5>Ejecución de extracción de VIDEO/MULTIPLATAFORMA:</h5>
-<p>~ $ bash Start-multiplataforma.sh</p>
+<p>~ $ Start-multiplataforma.sh</p>
 <img src="https://i.imgur.com/vQ2aYYF.jpeg" alt="YTDLP-TERMUX">
 
 <h4>Desinstalación del repositorio o YTDLP-TERMUX:</h4>

@@ -35,8 +35,8 @@ legible YT-DLP en Termux.
 <h5>1.1</h5>
 <img src="https://i.imgur.com/gWkypps.jpeg" alt="YTDLP-TERMUX">
 <h5>1.2</h5>
-<img src="https://i.imgur.com/S4D3XtP.jpeg"alt="YTDLP-TERMUX">
+<img src="https://i.imgur.com/S4D3XtP.jpeg"alt="YTDLP-TERMUX"></br>
 
-<p><strong>Frase de gracia, devoción y fe:</strong></p>
+</br><p><strong>Frase de gracia, devoción y fe:</strong></p>
 <p><strong>'El Rey Jesucristo viene pronto'</strong></p>
 <p><strong>Mateo 24:25, Author: Belial;</strong></p>

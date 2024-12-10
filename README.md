@@ -24,14 +24,14 @@ legible YT-DLP en Termux.
 
 <h4>Desinstalación del repositorio o YTDLP-TERMUX:</h4>
 <h5>Eliminación unitaria:</h5>
-<p>~ $ bash install</p>
-<p>~ $ yes | rm -r install.sh</p>
-<p>~ $ yes | rm -r uninstall.sh</p>
-<p>~ $ yes | rm -r README.md</p>
-<p>~ $ cd ..</p>
+<p>~/YTDLP-TERMUX $ bash uninstall</p>
+<p>~/YTDLP-TERMUX $ rm -r install.sh</p>
+<p>~/YTDLP-TERMUX $ rm -r uninstall.sh</p>
+<p>~/YTDLP-TERMUX $ rm -r README.md</p>
+<p>~/YTDLP-TERMUX $ cd</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX</p>
 <h5>Eliminación pluritaria:</h5>
-<p>~ $ cd ..</p>
+<p>~/YTDLP-TERMUX $ cd</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX</p>
 
 </br><h4>BUG/YTDLP-TERMUX 1.1 | SOLUCIONADO 1.2:</h4>

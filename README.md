@@ -7,7 +7,7 @@ legible YT-DLP en Termux.
 <p>~ $ yes | pkg install git</p>
 <p>~ $ yes | git clone https://github.com/wolfkrypter/YTDLP-TERMUX.git</p>
 ~ $ cd YTDLP-TERMUX
-<p>~/.../YTDLP-TERMUX $ bash install</p>
+<p>~/YTDLP-TERMUX $ bash install</p>
 
 <h4>Ejecuciones predeterminadas y disponibles del repositorio:</h4>
 <h5>Ejecución de extracción de AUDIO:</h5>

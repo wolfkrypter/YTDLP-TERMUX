@@ -38,9 +38,9 @@ read v
 echo -e "\e[0;31m" "\n\n\nEjemplo | ID/AUDIO: 251\n"
 echo -e "\e[0;33m" "\n\nDigite el ID/AUDIO:"
 read a
-$fv=mp4
+
 echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
-yt-dlp --no-warnings -f $v+$a --no-keep-video --recode-video $fv $u
+yt-dlp --no-warnings -f $v+$a --no-keep-video --recode-video mp4 $u
 
 
 

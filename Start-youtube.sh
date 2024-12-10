@@ -20,7 +20,7 @@ read u
 
 echo -e "\e[0;32m" "\n\n\n[Procesando | IDS | LISTA => FORMATOS]\n\n\n"
 sleep 2
-yt-dlp --list-formats $u
+yt-dlp --no-warnings --list-formats $u
 
 echo -e "\e[0;35m" "\n\n\n[INFORMACIÓN/IDS | LISTA => FORMATOS]"
 
@@ -38,10 +38,9 @@ read v
 echo -e "\e[0;31m" "\n\n\nEjemplo | ID/AUDIO: 251\n"
 echo -e "\e[0;33m" "\n\nDigite el ID/AUDIO:"
 read a
-
-
+$fv=mp4
 echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
-yt-dlp --no-warnings -f $v+$a --no-keep-video $u
+yt-dlp --no-warnings -f $v+$a --no-keep-video --recode-video $fv $u
 
 
 

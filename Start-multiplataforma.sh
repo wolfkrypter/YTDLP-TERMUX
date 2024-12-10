@@ -30,7 +30,8 @@ echo -e "\e[0;32m" "\n\nDeslice hacía arriba e observe e elija el ID con la res
 
 
 echo -e "\e[0;31m" "\n\n\nEjemplo | ID/URL: 978692127419239v\n"
-echo "\033[32m\nCopie y pegue el ID en ID/URL\n\033[0m"
+echo -e "\n\e[0;32m" "Inf/ID/URL:"
+echo -e "\n\e[0;33m" "Copie y pegue el ID en ID/URL\n\n"
 echo -e "\e[0;33m" "\n\nID/URL:"
 read iv
 

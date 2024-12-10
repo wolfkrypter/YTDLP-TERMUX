@@ -37,9 +37,9 @@ read iv
 
 
 
-
+$fv=mp4
 echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
-yt-dlp --no-warnings -f $iv --no-keep-video $u
+yt-dlp --no-warnings -f $iv --no-keep-video --recode-video $fv $u
 
 
 

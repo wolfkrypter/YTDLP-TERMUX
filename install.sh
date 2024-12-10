@@ -14,10 +14,6 @@ yes | pkg install ffmpeg
 echo -e "\e[034m"  "\n\nInstalando YT-DLP\n\n"
 yes | pip install yt-dlp
 
-git clone https://github.com/wolfkrypter/YTDLP-TERMUX.git
-
-cd YTDLP-TERMUX
-
 
 chmod +x Start-youtube.sh
 chmod +x Start-audio.sh

@@ -31,15 +31,15 @@ echo -e "\e[0;32m" "\n\nDeslice hacía arriba e observe e elija el ID con la res
 
 echo -e "\e[0;31m" "\n\n\nEjemplo | ID/URL: 978692127419239v\n"
 echo -e "\n\e[0;32m" "Inf/ID/URL:"
-echo -e "\n\e[0;33m" "Copie y pegue el ID en ID/URL\n\n"
+echo -e "\n\e[0;33m" "Copie y pegue el ID en ID/URL o digite.\n\n"
 echo -e "\e[0;33m" "\n\nID/URL:"
 read iv
 
 
 
-$fv=mp4
+
 echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
-yt-dlp --no-warnings -f $iv --no-keep-video --recode-video $fv $u
+yt-dlp --no-warnings -f $iv --no-keep-video --recode-video mp4 $u
 
 
 

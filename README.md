@@ -4,7 +4,6 @@ legible YT-DLP en Termux.
 
 <h2>Ejecución en Termux:</h2>
 <h4>Instalación de repositorio:</h4>
-<p>~ $ yes | pkg update && pkg upgrade</p>
 <p>~ $ yes | pkg install git</p>
 <p>~ $ yes | git clone https://github.com/wolfkrypter/YTDLP-TERMUX.git</p>
 <p>~ $ bash install</p>

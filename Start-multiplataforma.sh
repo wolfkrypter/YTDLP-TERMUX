@@ -1,4 +1,4 @@
-echo -e "\e[0;33m" "\n\nYTDLP-TERMUX\n\n\n\n\"
+echo -e "\e[0;33m" "\n\nYTDLP-TERMUX\n\n\n\n"
 echo -e "\e[0;31m" "\nInf/Exit/Cancel/Logout: \e[0;32mCTRL+C"
 echo -e "\e[0;35m" "\n\nINF:\n\n"
 echo -e "\e[0;32m" "YTDLP-TERMUX ejecuta de forma legible o para un público general el extractor de urlstream YT-DLP\n\n\n"

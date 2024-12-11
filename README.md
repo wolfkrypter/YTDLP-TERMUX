@@ -1,7 +1,7 @@
 # YTDLP-TERMUX
 YTDLP-TERMUX ejecuta de forma
 legible YT-DLP en Termux.
-<h3>Status: Actualizada</h3>
+<p><strong>Status:</strong> Actualizada</p>
 <h2>Ejecución en Termux:</h2>
 <h4>Instalación de repositorio:</h4>
 <p>~ $ yes | pkg install git</p>

@@ -17,7 +17,7 @@ echo -e "\e[0;32m" "############################################################
 
 
 
-echo -e "\e[0;32m" "\nInf/Exit/Cancel/Logout:\e[0;33m CTRL+C"
+echo -e "\e[0;32m" "\n\n\n\nInf/Exit/Cancel/Logout:\e[0;33m CTRL+C"
 echo -e "\e[0;35m" "\n\nINF:\n\n"
 echo -e "\e[0;32m" "YT-DLP-TERMUX ejecuta de forma legible o para un público general el extractor de urlstream YT-DLP\n\n\n"
 

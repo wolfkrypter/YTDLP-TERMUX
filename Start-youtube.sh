@@ -12,6 +12,8 @@ echo -e "\e[0;32m" "############################################################
 
 
 
+echo -e "\e[0;32m" "\n\n\n INF/YTDLP-TERMUX: YT-DLP"
+
 
 
 
@@ -19,13 +21,13 @@ echo -e "\e[0;32m" "############################################################
 
 echo -e "\e[0;32m" "\n\n\n\nInf/Exit/Cancel/Logout:\e[0;33m CTRL+C"
 echo -e "\e[0;35m" "\n\nINF:\n\n"
-echo -e "\e[0;32m" "YT-DLP-TERMUX ejecuta de forma legible o para un público general el extractor de urlstream YT-DLP\n\n\n"
+echo -e "\e[0;32m" "YTDLP-TERMUX ejecuta de forma legible o para un público general el extractor de urlstream YTDLP\n\n\n"
 
 echo -e "\e[0;33m" "\n\n\nAlmacenamiento de Videos:\n\n\n"
-echo -e "\e[0;32m" "\n\nYT-DLP-TERMUX dirige todas las descargas directamente al directorio de DESCARGAS automáticamente\n\n\n"
+echo -e "\e[0;32m" "\n\nYTDLP-TERMUX dirige todas las descargas directamente al directorio de DESCARGAS automáticamente\n\n\n"
 yes | termux-setup-storage
 
-echo -e "\e[0;35m" "\n\n[YT-DLP-TERMUX/EJECUTANDOSE]\n\n"
+echo -e "\e[0;35m" "\n\n[YTDLP-TERMUX/EJECUTANDOSE]\n\n"
 sleep 2
 cd /storage/emulated/0/Download
 

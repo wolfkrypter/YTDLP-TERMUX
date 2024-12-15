@@ -30,7 +30,6 @@ yes | termux-setup-storage
 
 echo -e "\e[0;35m" "\n\n[YTDLP-TERMUX/EJECUTANDOSE]\n\n"
 sleep 2
-cd /storage/emulated/0/Download
 
 
 echo -e "\e[0;33m" "\n\nEjemplo/URL: \n\n"
@@ -61,7 +60,7 @@ echo -e "\e[0;33m" "\n\nDigite el ID/AUDIO:"
 read a
 
 echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
-yt-dlp --no-warnings -f $v+$a --no-keep-video --merge-output-format mp4 $u
+yt-dlp -P /storage/emulated/0/Download --no-warnings -f $v+$a --no-keep-video --merge-output-format mp4 $u
 
 
 

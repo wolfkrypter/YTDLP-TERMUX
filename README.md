@@ -1,11 +1,11 @@
 # YTDLP-TERMUX
 YTDLP-TERMUX ejecuta de forma
 legible YT-DLP en Termux.
-<p><strong>Status:</strong> Actualizada | 14/12/2024/21:56</p>
+<p><strong>Status:</strong> Actualizada | 15/12/2024/12:18</p>
 <p><strong>Versión:</strong> 2.1</p>
 <h2>Ejecución en Termux:</h2>
 <h4>Instalación de repositorio:</h4>
-<p>~ $ yes | pkg update && pkg upgrade</p>
+<p>~ $ yes | pkg update && yes | pkg upgrade</p>
 <p>~ $ yes | pkg install git</p>
 <p>~ $ git clone https://github.com/wolfkrypter/YTDLP-TERMUX.git</p>
 <p>~ $ cd YTDLP-TERMUX</p>

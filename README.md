@@ -1,7 +1,7 @@
 # YTDLP-TERMUX
 YTDLP-TERMUX ejecuta de forma
 legible YT-DLP en Termux.
-<p><strong>Status:</strong> Actualizada</p>
+<p><strong>Status:</strong> Actualizada | 14/12/2024/21:56</p>
 <p><strong>Versión:</strong> 2.1</p>
 <h2>Ejecución en Termux:</h2>
 <h4>Instalación de repositorio:</h4>

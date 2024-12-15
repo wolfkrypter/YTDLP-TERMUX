@@ -45,7 +45,7 @@ read u
 echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
 
 echo -e "\e[0;32m" "\n"
-yt-dlp --no-warnings --audio-quality 0 --extract-audio --audio-format mp3 $u
+yt-dlp --no-warnings -f ba --extract-audio --audio-format mp3 $u
 
 
 

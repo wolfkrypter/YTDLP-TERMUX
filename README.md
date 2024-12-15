@@ -4,7 +4,6 @@ legible YT-DLP en Termux.
 <p><strong>Status:</strong> Activa</p>
 <p><strong>Edición:</strong> 15/12/2024/13:17</p>
 <p><strong>Versión:</strong> Legible</p>
-<p><strong>Tipo/pree-software:</strong> URLSTREAM/Open-source</p>
 <h2>Ejecución en Termux:</h2>
 <h4>Instalación de repositorio:</h4>
 <p>~ $ yes | pkg update && yes | pkg upgrade</p>

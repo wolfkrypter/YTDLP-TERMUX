@@ -57,4 +57,3 @@ echo -e "\e[0;33m" "\n\n\nFrase de gracia, devoción y fe:"
 
 echo -e "\e[0;34m" "\n\nJesucristo viene pronto"
  echo -e "\e[0;31m" "\n\nMateo 24:25, Author: Belial;\n\n\n"
-cd /data/data/com.termux/files/home/YTDLP-TERMUX

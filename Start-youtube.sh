@@ -69,7 +69,7 @@ yt-dlp -P /storage/emulated/0/Download --no-warnings -f $v+$a --no-keep-video --
 echo -e "\e[0;35m" "\n\n\n[Proceso/finalizado]\n\n\n"
 
 echo -e "\e[0;35m" "[Inf/YTDLP-TERMUX]"
-echo -e "\e[0;33m" "\n\n=> Si la extracción fue exitosa, omita reintentar de nuevo.\n\n=> Si ocurre un error y finalizo el proceso sin obtener la extracción de la urlstream en formato almacenable en el directorio de DESCARGAS por defecto, verifique su conexión, la url, y constate los IDS de audio y video ingresados ante tal error, y reintente nuevamente, y si ocurre errores que requieran autenticación de cuenta o usuario omita esa urlstream de youtube e ingrese otra urlstream de youtube del mismo autor,etcétera, e intente nuevamente."
+echo -e "\e[0;33m" "\n\n=> Si la extracción fue exitosa, omita reintentar de nuevo.\n\n=> Si ocurre un error y finalizo el proceso sin obtener la extracción de la urlstream en formato almacenable en el directorio de DESCARGAS por defecto, verifique su conexión, la url, y constate los IDS de audio y video ingresados ante tal error, y reintente nuevamente, y si ocurren errores que requieran autenticación de cuenta o usuario omita esa urlstream de youtube e ingrese otra urlstream de youtube del mismo autor,etcétera, e intente nuevamente."
 
 echo -e "\e[0;33m" "\n\n\nFrase de gracia, devoción y fe:"
 

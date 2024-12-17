@@ -40,9 +40,9 @@ echo -e "\e[0;31m" "\n\n\n[INF/YTDLP-TERMUX]\e[0;32m\n\n\nCopie la url de la pla
 echo -e "\e[0;32m" "\n\nURL:"
 read u
 
-echo -e "\e[0;32m" "\nEjemplo:\n\nRUTA ALMACENAMIENTO: #######
-echo -e "\e[0;32m" "\nRUTA DE ALMACENAMIENTO:
-
+echo -e "\e[0;32m" "\nEjemplo:\n\nRUTA ALMACENAMIENTO: /data/data/com.termux/files/home/storage/downloads/YTDLP-TERMUX\n\n"
+echo -e "\e[0;32m" "\nRUTA DE ALMACENAMIENTO:"
+read d
 
 echo -e "\e[0;32m" "\n\n\n[Procesando | IDS | LISTA ==> RESOLUCIONES]\n\n\n"
 sleep 2
@@ -64,7 +64,7 @@ read iv
 
 
 echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
-yt-dlp -P /storage/emulated/0/Download --no-warnings -f $iv --no-keep-video --merge-output-format mp4 $u
+yt-dlp -P $d --no-warnings -f $iv --no-keep-video --merge-output-format mp4 $u
 
 
 

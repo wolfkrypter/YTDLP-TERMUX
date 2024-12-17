@@ -2,7 +2,7 @@
 YTDLP-TERMUX ejecuta de forma
 legible YT-DLP en Termux.
 <p><strong>Status:</strong> Activa</p>
-<p><strong>Edición:</strong> 15/12/2024/13:17</p>
+<p><strong>Edición:</strong> 17/12/2024/16:09</p>
 <p><strong>Versión:</strong> Legible</p>
 <h2>Ejecución en Termux:</h2>
 <h4>Instalación de repositorio:</h4>

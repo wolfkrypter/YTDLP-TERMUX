@@ -23,8 +23,7 @@ echo -e "\e[0;32m" "\n\n\n\nInf/Exit/Cancel/Logout:\e[0;33m CTRL+C"
 echo -e "\e[0;35m" "\n\nINF:\n\n"
 echo -e "\e[0;32m" "YTDLP-TERMUX ejecuta de forma legible o para un público general el extractor multiplaforma de urlstream YT-DLP\n\n\n"
 
-echo -e "\e[0;33m" "\n\n\nAlmacenamiento de Audio:\n\n\n"
-echo -e "\e[0;32m" "\n\nYTDLP-TERMUX dirige todas las descargas directamente al directorio de DESCARGAS automáticamente\n\n\n"
+
 yes | termux-setup-storage
 
 echo -e "\e[0;35m" "\n\n[YTDLP-TERMUX/EJECUTANDOSE]\n\n"

@@ -40,7 +40,7 @@ echo -e "\e[0;31m" "\n\n\n[INF/YTDLP-TERMUX]\e[0;32m\n\n\nCopie la url de la pla
 echo -e "\e[0;32m" "\n\nURL:"
 read u
 
-echo -e "\e[0;32m" "\nEjemplo:\n\nRUTA DE ALMACENAMIENTO: /data/data/com.termux/files/home/storage/downloads/YTDLP-TERMUX\n\n"
+echo -e "\e[0;32m" "\n\nEjemplo:\n\nRUTA DE ALMACENAMIENTO: /data/data/com.termux/files/home/storage/downloads/YTDLP-TERMUX\n\n"
 echo -e "\e[0;32m" "\nRUTA DE ALMACENAMIENTO:"
 read d
 

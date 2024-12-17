@@ -62,14 +62,14 @@ read iv
 
 
 
-echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
+echo -e "\e[0;32m" "\n[Inicializando/descarga]\n"
 yt-dlp -P $d --no-warnings -f $iv --no-keep-video --merge-output-format mp4 $u
 
 
 
 
 
-echo -e "\e[0;35m" "\n\n\n[Proceso/finalizado]\n\n\n"
+echo -e "\e[0;32m" "\n\n\n[Proceso/finalizado]\n\n\n"
 
 echo -e "\e[0;35m" "[Inf/YTDLP-TERMUX]"
 echo -e "\e[0;33m" "\n\n=> Si la extracción fue exitosa, omita reintentar de nuevo.\n\n=> Si ocurre un error y finalizo el proceso sin obtener la extracción de la urlstream en formato almacenable en el directorio de DESCARGAS por defecto, verifique su conexión, la url, y constate los IDS de audio y video ingresados ante tal error, y reintente nuevamente, y si ocurren errores que requieran autenticación de cuenta o usuario omita esa plataforma e intente nuevamente con una urlstream de otra plataforma de streaming del mismo autor músical,etcétera."

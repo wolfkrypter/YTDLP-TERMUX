@@ -39,12 +39,14 @@ echo -e "\e[0;35m" "\n\nURL:"
 read u
 
 
+echo -e "\e[0;32m" "\n\n\nEjemplo:\n\nRUTA DE ALMACENAMIENTO: /data/data/com.termux/files/home/storage/downloads/YTDLP-TERMUX\n\n"
+echo -e "\e[0;32m" "\nRUTA DE ALMACENAMIENTO:"
+read d
 
-
-echo -e "\e[0;35m" "\n[Inicializando/descarga]\n"
+echo -e "\e[0;35m" "\n\n[Inicializando/descarga]\n"
 
 echo -e "\e[0;32m" "\n"
-yt-dlp -P /storage/emulated/0/Download --no-warnings -f ba --extract-audio --audio-format mp3 $u
+yt-dlp -P $d --no-warnings -f ba --extract-audio --audio-format mp3 $u
 
 
 

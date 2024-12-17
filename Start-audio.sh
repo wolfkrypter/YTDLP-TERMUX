@@ -21,7 +21,7 @@ echo -e "\e[0;32m" "\n\n\n INF/YTDLP-TERMUX: YT-DLP"
 
 echo -e "\e[0;32m" "\n\n\n\nInf/Exit/Cancel/Logout:\e[0;33m CTRL+C"
 echo -e "\e[0;35m" "\n\nINF:\n\n"
-echo -e "\e[0;32m" "YTDLP-TERMUX ejecuta de forma legible o para un público general el extractor multiplaforma de urlstream YT-DLP\n\n\n"
+echo -e "\e[0;32m" "YTDLP-TERMUX ejecuta de forma legible o para un público general el extractor multiplataforma de urlstream YT-DLP\n\n\n"
 
 
 yes | termux-setup-storage

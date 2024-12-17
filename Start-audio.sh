@@ -42,14 +42,14 @@ echo -e "\e[0;32m" "\n\n\nEjemplo:\n\nRUTA DE ALMACENAMIENTO: /data/data/com.ter
 echo -e "\e[0;32m" "\nRUTA DE ALMACENAMIENTO:"
 read d
 
-echo -e "\e[0;35m" "\n\n[Inicializando/descarga]\n"
+echo -e "\e[0;32m" "\n\n[Inicializando/descarga]\n"
 
 echo -e "\e[0;32m" "\n"
 yt-dlp -P $d --no-warnings -f ba --extract-audio --audio-format mp3 $u
 
 
 
-echo -e "\e[0;35m" "\n\n\n[Proceso/finalizado]\n\n\n"
+echo -e "\e[0;32m" "\n\n\n[Proceso/finalizado]\n\n\n"
 
 echo -e "\e[0;35m" "[Inf/YTDLP-TERMUX]"
 echo -e "\e[0;33m" "\n\n=> Si la extracción fue exitosa, omita reintentar de nuevo.\n\n=> Si ocurre un error y finalizo el proceso sin obtener la extracción de la urlstream en formato almacenable en el directorio de DESCARGAS por defecto, verifique su conexión, la url, y constate la información ingresada si ocurren errores, en el proceso.\n\n• Si ocurren errores que requieran autenticación de cuenta o usuario, o omita esa plataforma, e intente extraer con una urlstream de otra plataforma de streaming el mismo tema músical,etcétera, en formato legible e almacenable de audio en formato Mp3."

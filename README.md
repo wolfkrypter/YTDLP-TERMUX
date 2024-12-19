@@ -16,6 +16,9 @@ legible YT-DLP en Termux.
 <h5>Ejecución de extracción de AUDIO:</h5>
 <p>~ $ Start-audio.sh</p>
 <img src="https://i.imgur.com/GFvLV9R.jpeg" alt="YTDLP-TERMUX">
+<h5>Extracción exitosa de audio</h5>
+<img src="https://i.imgur.com/RZopvQT.jpeg" alt="YTDLP-TERMUX">
+
 <h5>Ejecución de extracción de VIDEO/YOUTUBE:</h5>
 <p>~ $ Start-youtube.sh</p>
 

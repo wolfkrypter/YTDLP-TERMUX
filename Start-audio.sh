@@ -76,6 +76,7 @@ echo -e "\033[32m" "\n\n\n[Inicializando/descarga]\033[0m\n"
 #--no-warnings: Este comando elimina advertencias de posibles errores u fallas en las extracciones e eventualidades al extraer y codificar audio de cada plataforma de streaming, que no requieren una solución ya que son notificaciones sobre posibles fallas que no requieren solución , ya que son como consejos preventivos o posibles errores, que con este comando son evitables e ocultables en cada extracción o en este procedimiento para evitar una mala perceptiva en cada proceso que causaria duda en su utilización, e evitar una perceptiva inquietante en cuanto al desempeño de este Bash/Script.
 
 #Comando yt-dlp de proceso de extracción u recodificación urlstream a formato almacenaje.
+
 yt-dlp --force-overwrites -P "/storage/emulated/0/Download" --no-warnings -f "ba[vcodec=none][abr<=128]" --extract-audio --audio-format mp3 $u
 
 

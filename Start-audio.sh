@@ -37,9 +37,24 @@ echo -e "\n\n\nCopie la url de la plataforma de streaming que desea extraer y co
 
 
 echo -e "\033[32m" "\n\nURL:\033[0m"
-# read u, almacenaje de URL, y posición de $u variable de entrada URL e ingreso de la URL.
+
+# Comentarios o descripciones: read u, almacenaje de URL, y posición de $u variable de entrada URL e ingreso de la URL #
+
 read u
 
+############################################
+#Ejemplo entrada de Ruta de Almacenamiento:#
+#Code Bash/script:                         #
+#                                          #
+#echo "Guardar en:"                        #
+#read rutalmacenamiento                    #
+#                                          #
+#Instanciación en code Bash/Script junto al#
+#comando yt-dlp:                           #
+#                                          #
+#yt-dlp -P $rutalmacenamiento...           #
+#                                          #
+############################################
 
 
 

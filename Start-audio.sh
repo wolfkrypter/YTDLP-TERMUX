@@ -48,7 +48,7 @@ echo -e "\033[32m" "\n\n\n[Inicializando/descarga]\033[0m\n"
 # -P: Comando de especificación de ruta de almacenamiento de descarga o extracción u recodificación al almacenaje interno(0) o externo(1) modificable de forma interna, e externa, ejemplo de entrada DIRECTORIO:
 #echo -e "\n\nGUARDAR EN:".
 #read rutalmacenamiento
-#ejemplo de posicionamiento para el ingreso de forma externa de una ruta de almacenamiento e identificación de variable de entrada de ruta de almacenamiento en comando de ejecución de YT-DLP en bash/script:
+#Ejemplo de posicionamiento para el ingreso de forma externa de una ruta de almacenamiento e identificación de variable de entrada de ruta de almacenamiento en comando de ejecución de YT-DLP en bash/script:
 #yt-dlp -P $rutalmacenamiento
 #--force-writes: Forza reescribir y elimina cualquier archivo con el mismo nombre al extraerse o el mismo archivo siempre y cada vez que se ejecuta en este comando de ejecución de extracción de YT-DLP.
 #--extract-audio: Comando obligatorio para extraer audio u descargar audio mediante YT-DLP.

@@ -42,19 +42,21 @@ echo -e "\033[32m" "\n\nURL:\033[0m"
 
 read u
 
-############################################
-#Ejemplo entrada de Ruta de Almacenamiento:#
-#Code Bash/script:                         #
-#                                          #
-#echo "Guardar en:"                        #
-#read rutalmacenamiento                    #
-#                                          #
-#Instanciación en code Bash/Script junto al#
-#comando yt-dlp:                           #
-#                                          #
-#yt-dlp -P $rutalmacenamiento...           #
-#                                          #
-############################################
+#Posición habilitada para establecer entrada e ingreso de ruta de almacenamiento
+
+#Ejemplo entrada de Ruta de Almacenamiento:
+#Code Bash/script:                        
+
+#echo "Guardar en:"                       
+
+#read rutalmacenamiento                   
+
+#Code Bash/Script y comando yt-dlp:     
+#Descripción:
+
+#Posicionamiento de variable de entrada de ruta de almacenamiento en el comando de ejecución de extracción de yt-dlp.
+
+#yt-dlp -P $rutalmacenamiento
 
 
 

@@ -26,6 +26,7 @@ echo -e "YTDLP-TERMUX ejecuta de forma legible o para un público general el ext
 
 
 echo -e "\033[32m\n[YTDLP-TERMUX/EJECUTANDOSE]\n\n\033[0m"
+sleep 1
 
 
 echo -e "\033[32m\n\nEjemplo/URL: \n\n\033[0m"

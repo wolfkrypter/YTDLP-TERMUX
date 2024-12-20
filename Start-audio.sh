@@ -45,7 +45,7 @@ read u
 echo -e "\033[32m" "\n\n\n[Inicializando/descarga]\033[0m\n"
 
 #yt-dlp: Comando de ejecución de extracción YT-DLP
-# -P: Comando de especificación de ruta de almacenamiento de descarga o extracción u recodificación al almacenaje interno(0) o externo(1) modificable de forma interna, e externa, ejemplo de entrada DIRECTORIO:
+# -P: Comando de especificación de ruta de almacenamiento de descarga o extracción u recodificación al almacenaje interno(0) o externo(1) modificable de forma interna, e externa, ejemplo de entrada de almacenamiento:
 #echo -e "\n\nGUARDAR EN:".
 #read rutalmacenamiento
 #Ejemplo de posicionamiento para el ingreso de forma externa de una ruta de almacenamiento e identificación de variable de entrada de ruta de almacenamiento en comando de ejecución de YT-DLP en bash/script:

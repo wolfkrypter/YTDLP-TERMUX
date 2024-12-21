@@ -65,7 +65,7 @@ echo -e "\e[0;33m" "\n\nDigite el ID/AUDIO:"
 read a
 
 echo -e "\e[0;32m" "\n[Inicializando/descarga]\n"
-yt-dlp -P $d --no-warnings -f $v+$a --no-keep-video --merge-output-format mp4 $u
+yt-dlp --force-overwrites -P $d --no-warnings -f $v+$a --no-keep-video --merge-output-format mp4/m4a $u
 
 
 

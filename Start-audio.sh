@@ -92,5 +92,5 @@ echo -e  "\033[32m\n\n=>\033[0m Si la extracción fue exitosa, omita reintentar 
 
 echo -e "\033[1;49;33m\n\n\nFrase de gracia, devoción y fe:\033[0m"
 
-echo -e "\033[1;49;34m\n\nJesucristo viene pronto\033[0m"
+echo -e "\033[1;49;34m\n\nEl Señor Jesucristo viene pronto\033[0m"
 echo -e "\033[1;49;31m\n\nMateo 24:25, Author: Belial;\n\n\n\033[0m"

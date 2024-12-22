@@ -64,7 +64,7 @@ read iv
 
 
 echo -e "\e[0;32m" "\n[Inicializando/descarga]\n"
-yt-dlp --force-overwrites -P $d --no-warnings -f $iv --no-keep-video --merge-output-format mp4 $u
+yt-dlp -P "/data/data/com.termux/files/home/storage/downloads" --no-warnings -f $iv --no-keep-video --merge-output-format mp4 $u
 
 
 

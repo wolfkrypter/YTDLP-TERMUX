@@ -29,7 +29,7 @@ yes | termux-setup-storage
 echo -e "\e[0;35m" "\n\n[YTDLP-TERMUX/EJECUTANDOSE]\n\n"
 sleep 2
 
-echo -e "\033[35m[INFORMACIÓN/ALMACENAMIENTO]\033[0m\n\n\033[32mLas descargas van directamente al directorio de DESCARGAS del almacenamiento interno de su dispositivo automáticamente.\033[0m"
+echo -e "\033[35m[INFORMACIÓN/ALMACENAMIENTO]\033[0m\n\n\033[32mLas descargas van directamente al directorio de DESCARGAS del almacenamiento interno de su dispositivo automáticamente.\033[0m\n\n"
 
 
 echo -e "\e[0;33m" "\n\nEjemplo/URL: \n\n"

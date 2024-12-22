@@ -29,7 +29,10 @@ echo -e "\e[0;32m" "YTDLP-TERMUX ejecuta de forma legible o para un público gen
 yes | termux-setup-storage
 
 echo -e "\e[0;35m" "\n\n[YTDLP-TERMUX/EJECUTANDOSE]\n\n"
-sleep 2
+sleep 1
+
+
+echo -e "\n\033[35m[INFORMACIÓN/ALMACENAMIENTO]\033[0m\n\n\033[32mLas descargas van directamente al directorio de DESCARGAS del almacenamiento interno de su dispositivo automáticamente.\033[0m\n\n"
 
 
 echo -e "\e[0;33m" "\n\nEjemplo/URL: \n\n"
@@ -39,9 +42,7 @@ echo -e "\e[0;31m" "\n\n\n[INF/YTDLP-TERMUX]\e[0;32m\n\n\nCopie la url de la pla
 echo -e "\e[0;32m" "\n\nURL:"
 read u
 
-echo -e "\e[0;32m" "\n\n\nEjemplo:\n\nRUTA DE ALMACENAMIENTO: /data/data/com.termux/files/home/storage/downloads/YTDLP-TERMUX\n\n"
-echo -e "\e[0;32m" "\nRUTA DE ALMACENAMIENTO:"
-read d
+
 
 echo -e "\e[0;32m" "\n\n\n[Procesando | IDS | LISTA ==> RESOLUCIONES]\n\n\n"
 sleep 2

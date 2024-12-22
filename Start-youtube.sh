@@ -24,11 +24,12 @@ echo -e "\e[0;32m" "\n\n\n\nInf/Exit/Cancel/Logout:\e[0;33m CTRL+C"
 echo -e "\e[0;35m" "\n\nINF:\n\n"
 echo -e "\e[0;32m" "YTDLP-TERMUX ejecuta de forma legible o para un público general el extractor de urlstream YTDLP\n\n\n"
 
-
 yes | termux-setup-storage
 
 echo -e "\e[0;35m" "\n\n[YTDLP-TERMUX/EJECUTANDOSE]\n\n"
 sleep 2
+
+echo -e "\033[32m[INFORMACIÓN/ALMACENAMIENTO]\033[0m\n\nLas descargas van directamente al directorio de DESCARGAS del almacenamiento interno de su dispositivo automáticamente."
 
 
 echo -e "\e[0;33m" "\n\nEjemplo/URL: \n\n"
@@ -37,10 +38,6 @@ echo -e "\e[0;31m" "\n\n\n[INF/YTDLP-TERMUX]\e[0;32m\n\n\nCopie la url de Youtub
 echo -e "\e[0;35m" "\n\nURL:"
 read u
 
-
-echo -e "\e[0;32m" "\n\n\nEjemplo:\n\nRUTA DE ALMACENAMIENTO: /data/data/com.termux/files/home/storage/downloads/YTDLP-TERMUX\n\n"
-echo -e "\e[0;32m" "\nRUTA DE ALMACENAMIENTO:"
-read d
 
 
 echo -e "\e[0;32m" "\n\n\n[Procesando | IDS | LISTA => FORMATOS]\n\n\n"
@@ -65,7 +62,7 @@ echo -e "\e[0;33m" "\n\nDigite el ID/AUDIO:"
 read a
 
 echo -e "\e[0;32m" "\n[Inicializando/descarga]\n"
-yt-dlp --force-overwrites -P $d --no-warnings -f $v+$a --no-keep-video --merge-output-format mp4/m4a $u
+yt-dlp -P $d --no-warnings -f $v+$a --no-keep-video --merge-output-format mp4 $u
 
 
 

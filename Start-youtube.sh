@@ -27,7 +27,7 @@ echo -e "\e[0;32m" "YTDLP-TERMUX ejecuta de forma legible o para un público gen
 yes | termux-setup-storage
 
 echo -e "\e[0;35m" "\n\n[YTDLP-TERMUX/EJECUTANDOSE]\n\n"
-sleep 2
+sleep 1
 
 echo -e "\n\033[35m[INFORMACIÓN/ALMACENAMIENTO]\033[0m\n\n\033[32mLas descargas van directamente al directorio de DESCARGAS del almacenamiento interno de su dispositivo automáticamente.\033[0m\n\n"
 

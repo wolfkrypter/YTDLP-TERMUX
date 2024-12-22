@@ -77,5 +77,5 @@ echo -e "\e[0;33m" "\n\n=> Si la extracción fue exitosa, omita reintentar de nu
 
 echo -e "\e[0;33m" "\n\n\nFrase de gracia, devoción y fe:"
 
-echo -e "\e[0;34m" "\n\nEl Señor Jesucristo viene pronto"
+echo -e "\e[0;34m" "\n\n'El Señor Jesucristo viene pronto'"
  echo -e "\e[0;31m" "\n\nMateo 24:25, Author: Belial;\n\n\n"

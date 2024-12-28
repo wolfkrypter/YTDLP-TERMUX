@@ -54,7 +54,7 @@ echo -e "\e[0;32m" "\n\nDeslice hacía arriba e observe e elija el ID con la res
 
 
 
-echo -e "\033[1;49;31m" "\n\n\nEjemplo | ID/URL:\033[0m \033[0;49;32m978692127419239v\033[0m \033[0;49;31m|\033[0m \033[0;49;32mhls-360p\033[0m\n"
+echo -e "\033[0;49;31m" "\n\n\nEjemplo | ID/URL:\033[0m \033[0;49;32m978692127419239v\033[0m \033[0;49;31m|\033[0m \033[0;49;32mhls-360p\033[0m\n"
 echo -e "\n\e[0;32m" "Inf/ID/URL:"
 echo -e "\n\e[0;33m" "Copie y pegue el ID en ID/URL o digite.\n\n"
 echo -e "\e[0;33m" "\n\nID/URL:"

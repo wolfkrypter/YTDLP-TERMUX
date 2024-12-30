@@ -2,7 +2,7 @@
 YTDLP-TERMUX ejecuta de forma
 legible YT-DLP en Termux.
 <p><strong>Status:</strong> Activa</p>
-<p><strong>Edición:</strong> 21/12/2024/23:54</p>
+<p><strong>Edición:</strong> 30/12/2024/17:54</p>
 <p><strong>Versión:</strong> Legible</p>
 <h2>Ejecución en Termux:</h2>
 <h4>Instalación de repositorio:</h4>
@@ -19,12 +19,12 @@ legible YT-DLP en Termux.
 <h5>Extracción exitosa de audio:</h5>
 <img src="https://i.imgur.com/gxCmjfK.jpeg" alt="YTDLP-TERMUX">
 
-<h5>Ejecución de extracción Duo-Streaming de VIDEO:</h5>
+<h5>Ejecución de extracción Duo-Streaming/VIDEO:</h5>
 <p>~ $ Start-duo-stream.sh</p>
 
 <img src="https://i.imgur.com/dVso81D.jpeg" alt="YTDLP-TERMUX">
 
-<h5>Ejecución de extracción de Single-Streaming de VIDEO:</h5>
+<h5>Ejecución de extracción de Single-Streaming/VIDEO:</h5>
 <p>~ $ Start-single-stream.sh</p>
 <img src="https://i.imgur.com/vQ2aYYF.jpeg" alt="YTDLP-TERMUX">
 

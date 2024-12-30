@@ -39,7 +39,7 @@ legible YT-DLP en Termux.
 <p>~ $ yes | rm -r YTDLP-TERMUX</p>
 <h5>Eliminación pluritaria:</h5>
 <p>~ $ cd YTDLP-TERMUX</p>
-<p>~/YTDLP-TERMUX $ bash uninstall</p>
+<p>~/YTDLP-TERMUX $ bash uninstall.sh</p>
 <p>~/YTDLP-TERMUX $ cd</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX</p>
 

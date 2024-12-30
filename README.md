@@ -13,18 +13,18 @@ legible YT-DLP en Termux.
 <p>~/YTDLP-TERMUX $ bash install.sh</p>
 
 <h4>Ejecuciones predeterminadas y disponibles del repositorio:</h4>
-<h5>Ejecución de extracción de AUDIO:</h5>
-<p>~ $ Start-audio.sh</p>
+<h5>Ejecución de extracción de Audio-Streaming:</h5>
+<p>~ $ Start-audio-stream.sh</p>
 <img src="https://i.imgur.com/S96M6Wo.jpeg" alt="YTDLP-TERMUX">
 <h5>Extracción exitosa de audio:</h5>
 <img src="https://i.imgur.com/gxCmjfK.jpeg" alt="YTDLP-TERMUX">
 
-<h5>Ejecución de extracción Duo/Streaming:</h5>
+<h5>Ejecución de extracción Duo-Streaming de VIDEO:</h5>
 <p>~ $ Start-duo-stream.sh</p>
 
 <img src="https://i.imgur.com/dVso81D.jpeg" alt="YTDLP-TERMUX">
 
-<h5>Ejecución de extracción de Single/Streaming:</h5>
+<h5>Ejecución de extracción de Single-Streaming de VIDEO:</h5>
 <p>~ $ Start-single-stream.sh</p>
 <img src="https://i.imgur.com/vQ2aYYF.jpeg" alt="YTDLP-TERMUX">
 

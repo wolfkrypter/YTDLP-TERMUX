@@ -15,12 +15,12 @@ echo -e "\e[034m"  "\n\nInstalando YT-DLP\n\n"
 yes | pip install yt-dlp
 
 
-chmod +x Start-duostream.sh
-chmod +x Start-audio.sh
-chmod +x Start-singlestream.sh
-mv Start-duostream.sh /data/data/com.termux/files/usr/bin
-mv Start-audio.sh /data/data/com.termux/files/usr/bin
-mv Start-singlestream.sh /data/data/com.termux/files/usr/bin
+chmod +x Start-duo-stream.sh
+chmod +x Start-audio-stream.sh
+chmod +x Start-single-stream.sh
+mv Start-duo-stream.sh /data/data/com.termux/files/usr/bin
+mv Start-audio-stream.sh /data/data/com.termux/files/usr/bin
+mv Start-single-stream.sh /data/data/com.termux/files/usr/bin
 
 echo -e "\e[0;31m" "\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', e utilice según su preferencia.\n\n"
 

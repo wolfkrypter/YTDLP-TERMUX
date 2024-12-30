@@ -7,9 +7,9 @@ yes | pkg uninstall ffmpeg
 echo -e "\e[034m"  "\n\nDesinstalando YT-DLP\n\n"
 yes | pip uninstall yt-dlp
 cd /data/data/com.termux/files/usr/bin
-yes | rm -r Start-duostream.sh
-yes | rm -r Start-audio.sh
-yes | rm -r Start-singlestream.sh
+yes | rm -r Start-duo-stream.sh
+yes | rm -r Start-audio-stream.sh
+yes | rm -r Start-single-stream.sh
 cd && cd YTDLP-TERMUX
 echo -e "\e[0;31m" "\n\nFinalizo el proceso de desinstalación"
 echo -e "\e[0;32m" "\n\n\n[INFORMACIÓN/IMPORTANTE] La eliminación total de YTDLP-TERMUX, es llevada a cabo claramente por el usuario, al eliminar claro esta mediante instructivos predeterminados para este proceso con antelación, de la forma preestablecida, en README, el cual instruirá el procedimiento final para la eliminación total de YTDLP-TERMUX en TERMUX,etcétera,"

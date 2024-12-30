@@ -19,13 +19,13 @@ legible YT-DLP en Termux.
 <h5>Extracción exitosa de audio:</h5>
 <img src="https://i.imgur.com/gxCmjfK.jpeg" alt="YTDLP-TERMUX">
 
-<h5>Ejecución de extracción de VIDEO/YOUTUBE:</h5>
-<p>~ $ Start-youtube.sh</p>
+<h5>Ejecución de extracción Duo/Streaming:</h5>
+<p>~ $ Start-duo-stream.sh</p>
 
 <img src="https://i.imgur.com/dVso81D.jpeg" alt="YTDLP-TERMUX">
 
-<h5>Ejecución de extracción de VIDEO/MULTIPLATAFORMA:</h5>
-<p>~ $ Start-multiplataforma.sh</p>
+<h5>Ejecución de extracción de Single/Streaming:</h5>
+<p>~ $ Start-single-stream.sh</p>
 <img src="https://i.imgur.com/vQ2aYYF.jpeg" alt="YTDLP-TERMUX">
 
 <h4>Desinstalación del repositorio o YTDLP-TERMUX:</h4>

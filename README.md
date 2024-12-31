@@ -38,7 +38,7 @@ legible YT-DLP en Termux.
 <p>4. YT-DLP</p>
 <h4>Verificación de dependencias YTDLP-TERMUX:</h4>
 <h5>INF/YTDLP-TERMUX:</h5>
-<p>La verificación de dependencias posibilita descartar anomalías y reconocer u deducir posibles errores en el funcionamiento de YTDLP-TERMUX.</p>
+<p>La verificación de dependencias posibilita descartar anomalías y reconocer u deducir posibles errores en el funcionamiento por dependencias faltantes de YTDLP-TERMUX.</p>
 <h5>Ejemplo dependencias instaladas:</h5>
 <p>~ $ pkg show ffmpeg</p>
 <img src="https://i.imgur.com/WnX60KZ.jpeg" alt="YTDLP-TERMUX/VERIFIED-FFMPEG">

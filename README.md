@@ -14,6 +14,8 @@ legible YT-DLP en Termux.
 
 <h4>Ejecuciones predeterminadas y disponibles del repositorio:</h4>
 <h5>Ejecución de extracción de Audio-Streaming:</h5>
+<h5>Plataformas:</h5>
+<p>Youtube,Vimeo,etcétera.</p>
 <p>~ $ Start-audio-stream.sh</p>
 <img src="https://i.imgur.com/S96M6Wo.jpeg" alt="YTDLP-TERMUX">
 <h5>Extracción exitosa de audio:</h5>

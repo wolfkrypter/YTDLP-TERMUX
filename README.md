@@ -47,12 +47,6 @@ legible YT-DLP en Termux.
 <p>~/YTDLP-TERMUX $ cd</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX</p>
 
-</br><h4>BUG/YTDLP-TERMUX 1.1 | SOLUCIONADO 1.2:</h4>
-<h5>1.1</h5>
-<img src="https://i.imgur.com/gWkypps.jpeg" alt="YTDLP-TERMUX">
-<h5>1.2</h5>
-<img src="https://i.imgur.com/S4D3XtP.jpeg"alt="YTDLP-TERMUX">
-
 </br><p><strong>FRASE DE GRACIA, DEVOCIÓN Y FE:</strong></p>
 <p><strong>'El Rey Jesucristo viene pronto'</strong></p>
 <p><strong>Mateo 24:25, Author: Belial;</strong></p>

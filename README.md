@@ -43,14 +43,14 @@ legible YT-DLP en Termux.
 <p>~ $ pkg show ffmpeg</p>
 <img src="" alt="">
 <p>~ $ pkg show python</p>
-<img src="" alt="">
+<img src="https://i.imgur.com/Av4wjEq.jpeg" alt="YTDLP-TERMUX/VERIFIED-PYTHON">
 <p>~ $ pkg show git</p>
 <img src="https://i.imgur.com/4PxftUd.jpeg" alt="YTDLP-TERMUX/VERIFIED-GIT">
 <p>~ $ pip show yt-dlp</p>
 <img src="" alt="">
 <h5>Ejemplo dependencias no instaladas:</h5>
 <h5>Ejemplo de dependencias python:</h5>
-<img src="https://i.imgur.com/Av4wjEq.jpeg" alt="YTDLP-TERMUX/VERIFIED-PYTHON">
+<img src="" alt="">
 <h5>Ejemplo de dependencias Linux</h5>
 <img src="" alt="">
 <h4>Desinstalación del repositorio o YTDLP-TERMUX:</h4>

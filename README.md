@@ -41,7 +41,7 @@ legible YT-DLP en Termux.
 <p>La verificación de dependencias posibilita descartar anomalías y reconocer u deducir posibles errores en el funcionamiento de YTDLP-TERMUX.</p>
 <h5>Ejemplo dependencias instaladas:</h5>
 <p>~ $ pkg show ffmpeg</p>
-<img src="" alt="">
+<img src="https://i.imgur.com/WnX60KZ.jpeg" alt="YTDLP-TERMUX/VERIFIED-FFMPEG">
 <p>~ $ pkg show python</p>
 <img src="https://i.imgur.com/Av4wjEq.jpeg" alt="YTDLP-TERMUX/VERIFIED-PYTHON">
 <p>~ $ pkg show git</p>

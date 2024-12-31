@@ -20,13 +20,13 @@ legible YT-DLP en Termux.
 <img src="https://i.imgur.com/gxCmjfK.jpeg" alt="YTDLP-TERMUX">
 
 <h5>Ejecución de extracción Duo-Streaming/VIDEO:</h5>
-<p>Plataformas: Youtube,Vimeo,etcétera.</p>
+<h5>Plataformas:</h5> <p>Youtube,Vimeo,etcétera.</p>
 <p>~ $ Start-duo-stream.sh</p>
 
 <img src="https://i.imgur.com/dVso81D.jpeg" alt="YTDLP-TERMUX">
 
 <h5>Ejecución de extracción de Single-Streaming/VIDEO:</h5>
-<p>Plataformas: Xvideos,Fig,Facebook,Instagram,etcétera.</p> 
+<h5>Plataformas:</h5> <p>Xvideos,Fig,Facebook,Instagram,etcétera.</p> 
 <p>~ $ Start-single-stream.sh</p>
 <img src="https://i.imgur.com/vQ2aYYF.jpeg" alt="YTDLP-TERMUX">
 

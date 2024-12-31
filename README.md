@@ -45,7 +45,7 @@ legible YT-DLP en Termux.
 <p>~ $ pkg show python</p>
 <img src="" alt="">
 <p>~ $ pkg show git</p>
-<img src="" alt="">
+<img src="https://i.imgur.com/4PxftUd.jpeg" alt="YTDLP-TERMUX">
 <p>~ $ pip show yt-dlp</p>
 <img src="" alt="">
 <h5>Ejemplo dependencias no instaladas:</h5>

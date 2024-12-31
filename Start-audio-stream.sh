@@ -81,7 +81,7 @@ echo -e "\033[32m" "\n\n\n[Inicializando/descarga]\033[0m\n"
 
 #Comando yt-dlp de proceso de extracción u recodificación urlstream a formato almacenaje.
 
-yt-dlp --force-overwrites -P "/storage/emulated/0/Download" --no-warnings -f "ba[vcodec=none][abr<=128]" --extract-audio --audio-format mp3 $u
+yt-dlp --force-overwrites -P "/storage/emulated/0/Download" --no-warnings -f "ba[vcodec=none][abr>=128]" --extract-audio --audio-format mp3 $u
 
 
 

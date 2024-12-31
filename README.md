@@ -31,7 +31,12 @@ legible YT-DLP en Termux.
 <h5>Plataformas:</h5> <p>Xvideos,Fig,Facebook,Instagram,etcétera.</p> 
 <p>~ $ Start-single-stream.sh</p>
 <img src="https://i.imgur.com/vQ2aYYF.jpeg" alt="YTDLP-TERMUX">
-
+<h4>Dependencias de YTDLP-TERMUX:</h4>
+<p>1. FFMEPG</p>
+<p>1. PYTHON</p>
+<p>1. YT-DLP</p>
+<p>4. GIT</p>
+<h4>Verificación de dependencias PREINSTALACIÓN/INSTALL.SH YT-DLP:</h4>
 <h4>Desinstalación del repositorio o YTDLP-TERMUX:</h4>
 <h5>Eliminación unitaria:</h5>
 <p>~ $ cd YTDLP-TERMUX</p>

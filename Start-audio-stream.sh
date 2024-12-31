@@ -35,7 +35,7 @@ echo -e "\033[32m\n[INF/ALMACENAMIENTO]\033[0m\n\nLas descargas van directamente
 
 echo -e "\033[32m\n\nEjemplo/URL: \n\n\033[0m"
 echo -e "https://m.youtube.com/watch?v=RgKAFK5djSk\n"
-echo -e "\033[32m\n\nPlataformas:\033[0m Facebook,Youtube,Instagram,etcétera."
+echo -e "\033[32m\n\nPlataformas:\033[0m Facebook,Youtube,Instagram,Vimeo,etcétera."
 echo -e "\033[32m\n\n\n[INF/YTDLP-TERMUX]\033[0m"
 echo -e "\n\n\nCopie la url de la plataforma de streaming que desea extraer el audio-streaming y codificar en un formato almacenable u legible de Audio y pegue en URL.\n\n"
 

@@ -33,10 +33,12 @@ legible YT-DLP en Termux.
 <img src="https://i.imgur.com/vQ2aYYF.jpeg" alt="YTDLP-TERMUX">
 <h4>Dependencias de YTDLP-TERMUX:</h4>
 <p>1. FFMEPG</p>
-<p>1. PYTHON</p>
-<p>1. YT-DLP</p>
+<p>2. PYTHON</p>
+<p>3. YT-DLP</p>
 <p>4. GIT</p>
-<h4>Verificación de dependencias PREINSTALACIÓN/INSTALL.SH YT-DLP:</h4>
+<h4>Verificación de dependencias YTDLP-TERMUX:</h4>
+<h5>INF/YTDLP-TERMUX:</h5>
+<p>La verificación posibilita descartar anomalías y reconocer posibles errores 
 <h4>Desinstalación del repositorio o YTDLP-TERMUX:</h4>
 <h5>Eliminación unitaria:</h5>
 <p>~ $ cd YTDLP-TERMUX</p>

@@ -72,7 +72,7 @@ echo -e "\033[0;49;32m\n\n\n[Proceso/finalizado]\n\n\n\033[0m"
 echo -e "\033[0;49;32m[Inf/YTDLP-TERMUX]\033[0m"
 echo -e "\033[0;49;32m\n\n=>\033[0m Si la extracción fue exitosa, omita reintentar de nuevo.\n\n\033[0;49;32m=>\033[0m Si ocurre un error y finalizo el proceso sin obtener la extracción de la urlstream en formato almacenable en el directorio de DESCARGAS por defecto, verifique su conexión, la url, y constate los IDS de audio y video ingresados ante tal error, y reintente nuevamente, y si ocurren errores que requieran autenticación de cuenta o usuario omita esa urlstream de Youtube, Vimeo,etcétera e ingrese otra urlstream de Youtube, Vimeo,etcétera, del mismo autor,etcétera, e intente nuevamente."
 
-echo -e "\e[0;33m" "\n\n\nFrase de gracia, devoción y fe:"
+echo -e "\033[0;49;33m\n\n\nFrase de gracia, devoción y fe:\033[0m"
 
-echo -e "\e[0;34m" "\n\n'El Señor Jesucristo viene pronto'"
- echo -e "\e[0;31m" "\n\nMateo 24:25, Author: Belial;\n\n\n"
+echo -e "\033[0;49;34m\n\n'El Señor Jesucristo viene pronto'\033[0m"
+ echo -e "\033[0;49;31m\n\nMateo 24:25, Author: Belial;\n\n\n\033[0m"

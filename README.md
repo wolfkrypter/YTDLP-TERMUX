@@ -26,7 +26,7 @@ legible YT-DLP en Termux.
 <img src="https://i.imgur.com/dVso81D.jpeg" alt="YTDLP-TERMUX">
 
 <h5>Ejecución de extracción de Single-Streaming/VIDEO:</h5>
-<p>Plataformas: Xvideos,Fig,Facebook,Instagram etcétera.</p> 
+<p>Plataformas: Xvideos,Fig,Facebook,Instagram,etcétera.</p> 
 <p>~ $ Start-single-stream.sh</p>
 <img src="https://i.imgur.com/vQ2aYYF.jpeg" alt="YTDLP-TERMUX">
 

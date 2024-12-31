@@ -52,7 +52,7 @@ legible YT-DLP en Termux.
 <h5>Ejemplo de dependencias python:</h5>
 <img src="https://i.imgur.com/OkkFVTW.jpeg" alt="YTDLP-TERMUX/DEP-NO-INSTALLED-PYTHON">
 <h5>Ejemplo de dependencias Linux</h5>
-<img src="" alt="">
+<img src="https://i.imgur.com/WptjBDe.jpeg" alt="YTDLP-TERMUX/DEP-NO-INSTALLED-LINUX">
 <h4>Desinstalación del repositorio o YTDLP-TERMUX:</h4>
 <h5>Eliminación unitaria:</h5>
 <p>~ $ cd YTDLP-TERMUX</p>

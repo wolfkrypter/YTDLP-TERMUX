@@ -38,7 +38,9 @@ legible YT-DLP en Termux.
 <p>4. GIT</p>
 <h4>Verificación de dependencias YTDLP-TERMUX:</h4>
 <h5>INF/YTDLP-TERMUX:</h5>
-<p>La verificación posibilita descartar anomalías y reconocer posibles errores 
+<p>La verificación de dependencias posibilita descartar anomalías y reconocer u deducir posibles errores en el funcionamiento de YTDLP-TERMUX.
+<p>~ $</p>
+
 <h4>Desinstalación del repositorio o YTDLP-TERMUX:</h4>
 <h5>Eliminación unitaria:</h5>
 <p>~ $ cd YTDLP-TERMUX</p>

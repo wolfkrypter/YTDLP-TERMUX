@@ -88,7 +88,7 @@ yt-dlp --force-overwrites -P "/storage/emulated/0/Download" --no-warnings -f "ba
 echo -e "\033[32m" "\n\n\n[Proceso/finalizado]\n\n\n\033[0m"
 
 echo -e "\033[32m[Inf/YTDLP-TERMUX]\033[0m"
-echo -e  "\033[32m\n\n=>\033[0m Si la extracción fue exitosa, omita reintentar de nuevo.\033[32m\n\n=>\033[0m Si ocurre un error y finalizo el proceso sin obtener la extracción de la urlstream en formato almacenable en el directorio de DESCARGAS por defecto, verifique su conexión, la url, y constate la información ingresada si ocurren errores, en el proceso.\n\n\033[32m=>\033[0m Si ocurren errores que requieran autenticación de cuenta o usuario, o omita esa plataforma, e intente extraer con una urlstream de otra plataforma de streaming el mismo tema músical,etcétera, en formato legible e almacenable de audio en formato Mp3."
+echo -e  "\033[32m\n\n=>\033[0m Si la extracción fue exitosa, omita reintentar de nuevo.\033[32m\n\n=>\033[0m Si ocurre un error y finalizo el proceso sin obtener la extracción de la urlstream en formato almacenable en el directorio de DESCARGAS por defecto, verifique su conexión, la url, y constate la información ingresada si ocurren errores, en el proceso.\n\n\033[32m=>\033[0m Si ocurren errores que requieran autenticación de cuenta o usuario, o omita esa plataforma, e intente extraer con una urlstream de otra plataforma de streaming u de la misma plataforma del mismo autor músical, tema músical,etcétera, en formato legible e almacenable de audio en formato Mp3."
 
 echo -e "\033[1;49;33m\n\n\n Frase de gracia, devoción y fe:\033[0m"
 

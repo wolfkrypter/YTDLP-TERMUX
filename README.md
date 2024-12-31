@@ -34,13 +34,25 @@ legible YT-DLP en Termux.
 <h4>Dependencias de YTDLP-TERMUX:</h4>
 <p>1. FFMEPG</p>
 <p>2. PYTHON</p>
-<p>3. YT-DLP</p>
-<p>4. GIT</p>
+<p>3. GIT</p>
+<p>4. YT-DLP</p>
 <h4>Verificación de dependencias YTDLP-TERMUX:</h4>
 <h5>INF/YTDLP-TERMUX:</h5>
-<p>La verificación de dependencias posibilita descartar anomalías y reconocer u deducir posibles errores en el funcionamiento de YTDLP-TERMUX.
-<p>~ $</p>
-
+<p>La verificación de dependencias posibilita descartar anomalías y reconocer u deducir posibles errores en el funcionamiento de YTDLP-TERMUX.</p>
+<h5>Ejemplo dependencias instaladas:</h5>
+<p>~ $ pkg show ffmpeg</p>
+<img src="" alt="">
+<p>~ $ pkg show python</p>
+<img src="" alt="">
+<p>~ $ pkg show git</p>
+<img src="" alt="">
+<p>~ $ pip show yt-dlp</p>
+<img src="" alt="">
+<h5>Ejemplo dependencias no instaladas:</h5>
+<h5>Ejemplo de dependencias python:</h5>
+<img src="" alt="">
+<h5>Ejemplo de dependencias Linux</h5>
+<img src="" alt="">
 <h4>Desinstalación del repositorio o YTDLP-TERMUX:</h4>
 <h5>Eliminación unitaria:</h5>
 <p>~ $ cd YTDLP-TERMUX</p>

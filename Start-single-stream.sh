@@ -14,7 +14,7 @@ echo -e "\033[1;49;31m##########################################################
 
 
 
-echo -e "\033[0;49;32m\n\n\nINF/YTDLP-TERMUX:\033[0mYT-DLP"
+echo -e "\033[0;49;32m\n\n\nINF/YTDLP-TERMUX:\033[0m DOWNLOAD | SINGLE-STREAMING"
 
 
 

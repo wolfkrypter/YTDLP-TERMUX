@@ -31,11 +31,7 @@ chmod +x start-audio-stream.com
 chmod +x start-single-stream.com
 
 
-mv start-duo-stream.com /data/data/com.termux/files/usr/bin
-
-mv start-audio-stream.com /data/data/com.termux/files/usr/bin
-
-mv start-single-stream.com /data/data/com.termux/files/usr/bin
+mv start-duo-stream.com $PATH && mv start-audio-stream.com $PATH && mv start-single-stream.com $PATH
 
 
 

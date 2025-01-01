@@ -63,7 +63,7 @@ legible YT-DLP en Termux.
 
 <h4>Instalación de FFMPEG:</h4>
 <p>~ $ yes | pkg install ffmpeg</p>
-<h5>Instalación de GIT:</h5>
+<h4>Instalación de GIT:</h4>
 <p>~ $ yes | pkg install git</p>
 <h4>Instalación de PYTHON:</h4>
 <p>~ $ yes | pkg install python</p>

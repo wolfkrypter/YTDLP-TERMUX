@@ -37,7 +37,7 @@ echo -e "\n\033[0;49;32m[INFORMACIÓN/ALMACENAMIENTO]\033[0m\n\nLas descargas va
 
 
 echo -e "\033[0;49;32m\n\nEjemplo/URL: \n\n\033[0m"
-echo -e "https://www.facebook.com/100066604305115/videos/3906285049647051/?mibextid=rS40aB7S9Ucbxw6v\n"
+echo -e "https://www.facebook.com/111170980280185/videos/631880814207850/?mibextid=rS40aB7S9Ucbxw6v"
 
 echo -e "\033[0;49;32m\n\nPlataformas:\033[0m Facebook,Instagram,etcétera."
 

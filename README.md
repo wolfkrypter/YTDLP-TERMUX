@@ -18,8 +18,7 @@ legible YT-DLP en Termux.
 <p>~ $ git clone https://github.com/wolfkrypter/YTDLP-TERMUX.git</p>
 
 <p>~ $ cd YTDLP-TERMUX</p>
-<p>~/YTDLP-TERMUX $ chmod +x install && mv install.ndl5 $PATH && install.ndl5 && cd $PATH && rm -r install.ndl5 && cd</p>
-<p>~/YTDLP-TERMUX $ bash install</p>
+<p>~/YTDLP-TERMUX $ chmod +x install.ndl5 && mv install.ndl5 $PATH && install.ndl5 && cd $PATH && rm -r install.ndl5 && cd</p>
 
 
 

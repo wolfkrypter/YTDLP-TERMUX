@@ -22,9 +22,9 @@ echo -e "\033[0;49;32m[\033[0mDesinstalación\033[0;49;32m/\033[0mYT-DLP\033[0;4
 echo -e "\n\nDesinstalando YT-DLP\n\n"
 yes | pip uninstall yt-dlp
 cd /data/data/com.termux/files/usr/bin
-yes | rm -r Start-duo-stream.sh
-yes | rm -r Start-audio-stream.sh
-yes | rm -r Start-single-stream.sh
+rm -r start-duo-stream.com
+rm -r start-audio-stream.com
+rm -r start-single-stream.com
 cd && cd YTDLP-TERMUX
 
 

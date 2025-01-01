@@ -25,7 +25,7 @@ legible YT-DLP en Termux.
 
 <h3>Ejecuciones predeterminadas y disponibles del repositorio:</h3>
 
-<h4>Ejecución de extracción de Audio-Streaming:</h4>
+<h3>Ejecución de extracción de Audio-Streaming:</h3>
 
 
 <h4>Plataformas:</h4>
@@ -37,7 +37,7 @@ legible YT-DLP en Termux.
 <h4>Extracción exitosa de audio:</h4>
 <img src="https://i.imgur.com/gxCmjfK.jpeg" alt="YTDLP-TERMUX">
 
-<h4>Ejecución de extracción Duo-Streaming/VIDEO:</h4>
+<h3>Ejecución de extracción Duo-Streaming/VIDEO:</h3>
 <h4>Plataformas:</h4> <p>Youtube,Vimeo,etcétera.</p>
 
 
@@ -51,7 +51,7 @@ legible YT-DLP en Termux.
 
 
 
-<h4>Ejecución de extracción de Single-Streaming/VIDEO:</h4>
+<h3>Ejecución de extracción de Single-Streaming/VIDEO:</h3>
 <h4>Plataformas:</h4> <p>Xvideos,Fig,Facebook,Instagram,etcétera.</p> 
 <p>~ $ Start-single-stream.sh</p>
 <img src="https://i.imgur.com/udIjvtt.jpeg" alt="YTDLP-TERMUX">
@@ -74,7 +74,7 @@ legible YT-DLP en Termux.
 
 
 
-<h4>Ejemplo dependencias instaladas:</h4>
+<h3>Ejemplo dependencias instaladas:</h3>
 <p>~ $ pkg show ffmpeg</p>
 <img src="https://i.imgur.com/WnX60KZ.jpeg" alt="YTDLP-TERMUX/VERIFIED-FFMPEG">
 <p>~ $ pkg show python</p>

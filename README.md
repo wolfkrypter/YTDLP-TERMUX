@@ -50,11 +50,11 @@ legible YT-DLP en Termux.
 <img src="https://i.imgur.com/4PxftUd.jpeg" alt="YTDLP-TERMUX/VERIFIED-GIT">
 <p>~ $ pip show yt-dlp</p>
 <img src="https://i.imgur.com/HH0Cm4g.jpeg" alt="YTDLP-TERMUX/VERIFIED-YT-DLP">
-
-<h4>Ejemplo dependencias no instaladas:</h4></br>
-<h4>Ejemplo de dependencias python:</h4>
+</br>
+<h4>Ejemplo dependencias no instaladas:</h4>
+<h4>Ej. de dependencias python:</h4>
 <img src="https://i.imgur.com/OkkFVTW.jpeg" alt="YTDLP-TERMUX/DEP-NO-INSTALLED-PYTHON">
-<h4>Ejemplo de dependencias Linux:</h4>
+<h4>Ej. de dependencias Linux:</h4>
 <img src="https://i.imgur.com/WptjBDe.jpeg" alt="YTDLP-TERMUX/DEP-NO-INSTALLED-LINUX">
 
 

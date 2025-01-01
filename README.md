@@ -59,7 +59,7 @@ legible YT-DLP en Termux.
 
 <h4>Instalación manual de Dependencias:</h4>
 <h5>Inf/YTDLP-TERMUX:</h5>
-<p>La instalación manual de dependencias ayuda a solucionar errores de YTDLP-TERMUX visualizados mediante la verificación de dependencias.</p>
+<p>La instalación manual de dependencias ayuda a solucionar errores de YTDLP-TERMUX predichos y visualizados en la verificación de dependencias y mediante la verificación de dependencias.</p>
 
 <h5>Instalación de FFMPEG:</h5>
 <p>~ $ yes | pkg install ffmpeg</p>

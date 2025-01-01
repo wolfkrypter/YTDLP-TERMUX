@@ -1,4 +1,4 @@
-echo -e "\e[034m" "\n\nDesinstalando python y dependencias de python\n\n"
+echo -e "\033[0;49;34m\n\nDesinstalando python y dependencias de python\n\n\033[0m"
 yes | pkg uninstall python
 
 echo -e "\e[034m" "\n\nDesinstalando FFMPEG dependencia de YT-DLP\n\n"

@@ -34,7 +34,7 @@ legible YT-DLP en Termux.
 <img src="https://i.imgur.com/QgJchbr.jpeg" alt="YTDLP-TERMUX">
 
 
-<h4>Extracción exitosa de audio:</h4>
+<h4>Extracción exitosa de audio-streaming:</h4>
 <img src="https://i.imgur.com/gxCmjfK.jpeg" alt="YTDLP-TERMUX">
 
 <h3>Ejecución de extracción Duo-Streaming/VIDEO:</h3>

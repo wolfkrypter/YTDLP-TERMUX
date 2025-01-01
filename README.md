@@ -24,7 +24,7 @@ legible YT-DLP en Termux.
 <h5>Ejecución de extracción Duo-Streaming/VIDEO:</h5>
 <h5>Plataformas:</h5> <p>Youtube,Vimeo,etcétera.</p>
 <h5>INF/YTDLP-TERMUX:</h5>
-<p>Si en la descarga e extracción y codificación de URL-STREAMING DUO-STREAM,la codificación de audio y vídeo no fue ejecutada correctamente, y el audio, y el vídeo son extraídos de forma separada, realice la verificación de dependencias descritas en el README.md en la parte inferior para obtener una ejecución correcta de la descarga DUO-STREAM del repositorio YTDLP-TERMUX y verifique si tiene instalado el codificador de streaming e audio y vídeo FFMPEG, para solucionar esta anomalía</p>
+<p>Si en la descarga e extracción y codificación de URL-STREAMING DUO-STREAM,la codificación de audio y vídeo no fue ejecutada correctamente, y el audio, y el vídeo son extraídos de forma separada, realice la verificación de dependencias descritas en el README.md en la parte inferior para obtener una ejecución correcta de la descarga DUO-STREAM del repositorio YTDLP-TERMUX y verifique si tiene instalado el codificador de streaming e audio y vídeo FFMPEG, para solucionar esta anomalía, y realice la instalación manual de la dependencia de YTDLP-TERMUX, FFMPEG.</p>
 <p>~ $ Start-duo-stream.sh</p>
 
 <img src="https://i.imgur.com/qhq9fFq.jpeg" alt="YTDLP-TERMUX">

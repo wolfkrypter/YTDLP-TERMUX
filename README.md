@@ -25,7 +25,7 @@ legible YT-DLP en Termux.
 <h5>Plataformas:</h5> <p>Youtube,Vimeo,etcétera.</p>
 <p>~ $ Start-duo-stream.sh</p>
 
-<img src="https://i.imgur.com/dVso81D.jpeg" alt="YTDLP-TERMUX">
+<img src="https://i.imgur.com/qhq9fFq.jpeg" alt="YTDLP-TERMUX">
 
 <h5>Ejecución de extracción de Single-Streaming/VIDEO:</h5>
 <h5>Plataformas:</h5> <p>Xvideos,Fig,Facebook,Instagram,etcétera.</p> 

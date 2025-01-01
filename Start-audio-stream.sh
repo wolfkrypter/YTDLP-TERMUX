@@ -14,7 +14,7 @@ echo -e "\033[1;49;31m##########################################################
 
 
 
-echo -e "\033[0;49;32m\n\n\n\n\nINF/YTDLP-TERMUX: \033[0m YTDLP-TERMUX | DOWNLOAD/AUDIO-STREAMING"
+echo -e "\033[0;49;32m\n\n\n\n\nINF/YTDLP-TERMUX: \033[0mDOWNLOAD | AUDIO-STREAMING"
 
 
 

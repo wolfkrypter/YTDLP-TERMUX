@@ -58,7 +58,7 @@ echo -e -n "\033[0;49;32m\n\nDigite el ID/VIDEO: \033[0m"
 read v
 
 echo -e "\033[0;49;32m\n\n\nEjemplo | ID/AUDIO:\033[0m 251\n"
-echo -e -n "\033[0;49;32m\n\nDigite el ID/AUDIO:\033[0m"
+echo -e -n "\033[0;49;32m\n\nDigite el ID/AUDIO: \033[0m"
 read a
 
 echo -e "\033[0;49;32m\n[Inicializando/descarga]\n\033[0m"

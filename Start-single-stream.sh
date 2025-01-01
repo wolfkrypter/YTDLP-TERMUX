@@ -39,7 +39,7 @@ echo -e "\n\033[0;49;32m[INFORMACIÓN/ALMACENAMIENTO]\033[0m\n\nLas descargas va
 echo -e "\033[0;49;32m\n\nEjemplo/URL: \n\n\033[0m"
 echo -e "https://www.facebook.com/111170980280185/videos/631880814207850/?mibextid=rS40aB7S9Ucbxw6v"
 
-echo -e "\033[0;49;32m\n\nPlataformas:\033[0m Facebook,Instagram,etcétera."
+echo -e "\033[0;49;32m\n\nPlataformas:\033[0m Xvideos,Fig,Facebook,Instagram,etcétera."
 
 echo -e "\033[0;49;32m\n\n\n[INF/YTDLP-TERMUX]\033[0m\n\nCopie la url single-streaming de la plataforma de streaming que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL.\n\n"
 

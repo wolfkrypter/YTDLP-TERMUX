@@ -36,7 +36,7 @@ echo -e "https://m.youtube.com/watch?v=RgKAFK5djSk\n"
 echo -e "\033[0;49;32m\n\n[INF/YTDLP-TERMUX]\033[0m\n\n\nCopie la url duo-streaming,ej. YouTube, Vimeo,etcétera, que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL.\n\n"
 
 
-echo -e "\033[0;49;32m\n\nURL:\033[0m"
+echo -e -n"\033[0;49;32m\n\nURL: \033[0m"
 read u
 
 
@@ -54,11 +54,11 @@ echo -e "\033[0;49;32m\n\n\nLos IDs de los formatos de audio y video se encuentr
 
 echo -e "\033[0;49;32m\n\n\nEjemplo | ID/VIDEO:\033[0m 137\n"
 
-echo -e "\033[0;49;32m\n\nDigite el ID/VIDEO:\033[0m"
+echo -e -n "\033[0;49;32m\n\nDigite el ID/VIDEO: \033[0m"
 read v
 
 echo -e "\033[0;49;32m\n\n\nEjemplo | ID/AUDIO:\033[0m 251\n"
-echo -e "\033[0;49;32m\n\nDigite el ID/AUDIO:\033[0m"
+echo -e -n "\033[0;49;32m\n\nDigite el ID/AUDIO:\033[0m"
 read a
 
 echo -e "\033[0;49;32m\n[Inicializando/descarga]\n\033[0m"

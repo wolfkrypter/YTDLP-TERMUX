@@ -28,11 +28,11 @@ echo -e "YTDLP-TERMUX ejecuta de forma legible o para un público general el ext
 
 yes | termux-setup-storage
 
-echo -e "\033[0;49;32m\n\n [YTDLP-TERMUX/EJECUTANDOSE]\n\n\033[0m"
+echo -e "\033[0;49;32m\n\n[YTDLP-TERMUX/EJECUTANDOSE]\n\n\033[0m"
 sleep 1
 
 
-echo -e "\n\033[0;49;32m [INFORMACIÓN/ALMACENAMIENTO]\033[0m\n\nLas descargas van directamente al directorio de DESCARGAS del almacenamiento interno de su dispositivo automáticamente.\n\n"
+echo -e "\n\033[0;49;32m[INFORMACIÓN/ALMACENAMIENTO]\033[0m\n\nLas descargas van directamente al directorio de DESCARGAS del almacenamiento interno de su dispositivo automáticamente.\n\n"
 
 
 echo -e "\033[0;49;32m\n\n Ejemplo/URL: \n\n\033[0m"
@@ -40,7 +40,7 @@ echo -e "https://www.facebook.com/100066604305115/videos/3906285049647051/?mibex
 
 echo -e "\033[0;49;32m\n\n Plataformas:\033[0m Facebook,Instagram,etcétera."
 
-echo -e "\033[0;49;32m\n\n\n [INF/YTDLP-TERMUX]\033[0m\n\nCopie la url single-streaming de la plataforma de streaming que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL.\n\n"
+echo -e "\033[0;49;32m\n\n\n[INF/YTDLP-TERMUX]\033[0m\n\nCopie la url single-streaming de la plataforma de streaming que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL.\n\n"
 
 
 echo -e "\033[0;49;32m\n\n URL:\033[0m"
@@ -48,11 +48,11 @@ read u
 
 
 
-echo -e "\033[0;49;32m\n\n\n [Procesando | IDS | LISTA ==> RESOLUCIONES]\n\n\n\033[0m"
+echo -e "\033[0;49;32m\n\n\n[Procesando | IDS | LISTA ==> RESOLUCIONES]\n\n\n\033[0m"
 sleep 2
 yt-dlp --list-formats $u
 
-echo -e "\033[0;49;32m\n\n\n [INFORMACIÓN/IDS | LISTA ==> RESOLUCIONES]\033[0m"
+echo -e "\033[0;49;32m\n\n\n[INFORMACIÓN/IDS | LISTA ==> RESOLUCIONES]\033[0m"
 
 echo -e "\n\nDeslice hacía arriba e observe e elija el ID con la resolución y la calidad de su preferencia y digite en el ID/URL."
 
@@ -68,16 +68,16 @@ read iv
 
 
 
-echo -e "\033[0;49;32m\n [Inicializando/descarga]\n\033[0m"
+echo -e "\033[0;49;32m\n[Inicializando/descarga]\n\033[0m"
 yt-dlp -P "/data/data/com.termux/files/home/storage/downloads" --no-warnings -f $iv --no-keep-video --merge-output-format mp4 $u
 
 
 
 
 
-echo -e "\033[0;49;32m\n\n\n [Proceso/finalizado]\n\n\n\033[0m"
+echo -e "\033[0;49;32m\n\n\n[Proceso/finalizado]\n\n\n\033[0m"
 
-echo -e "\033[0;49;32m [Inf/YTDLP-TERMUX]\033[0m"
+echo -e "\033[0;49;32m[Inf/YTDLP-TERMUX]\033[0m"
 echo -e "\033[0;49;32m\n\n =>\033[0m Si la extracción fue exitosa, omita reintentar de nuevo.\n\n\033[0;49;32m =>\033[0m Si ocurre un error y finalizo el proceso sin obtener la extracción de la urlstream en formato almacenable en el directorio de DESCARGAS por defecto, verifique su conexión, la url, y constate los IDS de audio y video ingresados ante tal error, y reintente nuevamente, y si ocurren errores que requieran autenticación de cuenta o usuario omita esa plataforma e intente nuevamente con una urlstream de otra plataforma de streaming u de la misma plataforma streaming del mismo autor músical,etcétera."
 
 echo -e "\033[1;49;33m\n\n\n Frase de gracia, devoción y fe:\033[0m"

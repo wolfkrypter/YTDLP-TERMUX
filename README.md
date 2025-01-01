@@ -30,7 +30,7 @@ legible YT-DLP en Termux.
 
 <h4>Plataformas:</h4>
 <p>Youtube,Vimeo,etcétera.</p>
-<p>~ $ Start-audio-stream.com</p>
+<p>~ $ start-audio-stream.com</p>
 <img src="https://i.imgur.com/QgJchbr.jpeg" alt="YTDLP-TERMUX">
 
 
@@ -44,7 +44,7 @@ legible YT-DLP en Termux.
 
 <h4>INF/YTDLP-TERMUX:</h4>
 <p>Si en la descarga e extracción y codificación de URL-STREAMING DUO-STREAM, la codificación de audio y vídeo no fue ejecutada correctamente, y el audio, y el vídeo son extraídos de forma separada, realice la verificación de dependencias descritas en el README.md en la parte inferior para obtener una ejecución correcta de la descarga u extracción DUO-STREAM del repositorio YTDLP-TERMUX y verifique u revise si tiene instalado el codificador de streaming e audio y vídeo FFMPEG, y ejecute en TERMUX para solucionar esta anomalía la instalación manual de la dependencia de YTDLP-TERMUX, FFMPEG.</p>
-<p>~ $ Start-duo-stream.com</p>
+<p>~ $ start-duo-stream.com</p>
 
 <img src="https://i.imgur.com/qhq9fFq.jpeg" alt="YTDLP-TERMUX">
 
@@ -53,7 +53,7 @@ legible YT-DLP en Termux.
 
 <h3>Ejecución de extracción de Single-Streaming/VIDEO:</h3>
 <h4>Plataformas:</h4> <p>Xvideos,Fig,Facebook,Instagram,etcétera.</p> 
-<p>~ $ Start-single-stream.com</p>
+<p>~ $ start-single-stream.com</p>
 <img src="https://i.imgur.com/udIjvtt.jpeg" alt="YTDLP-TERMUX">
 
 

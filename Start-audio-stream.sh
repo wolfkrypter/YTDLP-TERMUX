@@ -71,7 +71,7 @@ yt-dlp --force-overwrites -P "/storage/emulated/0/Download" --no-warnings -f "ba
 
 else
 
-echo -e "\n\n\033[0;49;32m[\033[0mIngreso incorrecto\033[0;49;32m]\033[0m"
+echo -e "\n\n\033[0;49;32m[\033[0mSelección incorrecta\033[0;49;32m]\033[0m"
 
 
 

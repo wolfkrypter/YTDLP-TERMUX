@@ -1,4 +1,12 @@
+
+echo -e "\033[0;49;32m[\033[0mInicializando\033[0;49;32m/\033[0mDesinstalación\033[0;49;32m]\033[0m"
+
+echo -e "Iniciando desinstalación de YTDLP-TERMUX."
+
+
 echo -e "\033[0;49;32m[\033[0mDesinstalación\033[0;49;32m/\033[0mPYTHON\033[0;49;32m]\033[0m"
+
+
 echo -e "\n\nDesinstalando python y dependencias de python.\n\n"
 yes | pkg uninstall python
 

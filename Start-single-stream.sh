@@ -52,13 +52,13 @@ echo -e "\033[0;49;32m\n\n\n [Procesando | IDS | LISTA ==> RESOLUCIONES]\n\n\n\0
 sleep 2
 yt-dlp --list-formats $u
 
-echo -e "\033[0;49;35m\n\n\n [INFORMACIÓN/IDS | LISTA ==> RESOLUCIONES]\033[0m"
+echo -e "\033[0;49;32m\n\n\n [INFORMACIÓN/IDS | LISTA ==> RESOLUCIONES]\033[0m"
 
 echo -e "\n\nDeslice hacía arriba e observe e elija el ID con la resolución y la calidad de su preferencia y digite en el ID/URL."
 
 
 
-echo -e "\033[0;49;31m\n\n\n Ejemplo | ID/URL:\033[0m 978692127419239v \033[0;49;32m | \033[0mhls-360p\n"
+echo -e "\033[0;49;32m\n\n\n Ejemplo | ID/URL:\033[0m 978692127419239v \033[0;49;32m | \033[0mhls-360p\n"
 
 echo -e "\n\033[0;49;32m Inf/ID/URL:\033[0m"
 echo -e "\nCopie y pegue el ID en ID/URL o digite.\n\n"

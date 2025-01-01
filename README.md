@@ -65,9 +65,11 @@ legible YT-DLP en Termux.
 <p>~ $ pkg install git</p>
 <h5>Instalación de PYTHON:</h5>
 <p>~ $ pkg install python</p>
+<h5>Instalación de YT-DLP:</h5>
+
 <h5>INF/YTDLP-TERMUX:</h5>
 <p>Para instalar YT-DLP es necesario instalar primeramente PYTHON, ya que es una dependencia de PYTHON.
-<h5>Instalación de YT-DLP:</h5>
+
 <p>~ $ pip install yt-dlp</p>
 
 

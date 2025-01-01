@@ -2,7 +2,7 @@
 echo -e "\033[0;49;32m[\033[0mInstalación\033[0;49;32m/\033[0mDependencias\033[0;49;32m]\033[0m"
 
 echo -e "\n\nInstalando  y actualizando paquetes y dependencias por defecto de Termux\n\n"
-yes | apt update && yes | apt upgrade
+yes | pkg update && yes | pkg upgrade
 
 
 

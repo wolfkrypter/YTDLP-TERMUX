@@ -62,7 +62,7 @@ echo -e "\033[0;49;32m\n\n\n Ejemplo | ID/URL:\033[0m 978692127419239v \033[0;49
 
 echo -e "\n\033[0;49;32m Inf/ID/URL:\033[0m"
 echo -e "\nCopie y pegue el ID en ID/URL o digite.\n\n"
-echo -e "\033[0;49;33m\n\n ID/URL:\033[0m"
+echo -e "\033[0;49;32m\n\n ID/URL:\033[0m"
 read iv
 
 

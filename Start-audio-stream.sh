@@ -40,7 +40,7 @@ echo -e "\033[0;49;32m\n\n\n[INF/YTDLP-TERMUX]\033[0m"
 echo -e "\n\n\nCopie la url de la plataforma de streaming que desea extraer el audio-streaming y codificar en un formato almacenable u legible de Audio y pegue en URL.\n\n"
 
 
-echo -e -n "\033[0;49;32m\n\nURL:\033[0m"
+echo -e -n "\033[0;49;32m\n\nURL: \033[0m"
 read u
 
 echo -e "\n\n\033[0;49;32m [\033[0m1\033[0;49;32m]\033[0m 128 \033[0;49;32mKbps\033[0m"

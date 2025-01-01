@@ -77,7 +77,7 @@ legible YT-DLP en Termux.
 
 
 
-<h4>Desinstalación del repositorio o YTDLP-TERMUX:</h4>
+<h4>Desinstalación del repositorio YTDLP-TERMUX:</h4>
 <h5>Eliminación unitaria:</h5>
 <p>~ $ cd YTDLP-TERMUX</p>
 <p>~/YTDLP-TERMUX $ bash uninstall</p>

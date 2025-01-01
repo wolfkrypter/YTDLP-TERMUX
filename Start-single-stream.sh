@@ -44,7 +44,7 @@ echo -e "\033[0;49;32m\n\nPlataformas:\033[0m Facebook,Instagram,etcétera."
 echo -e "\033[0;49;32m\n\n\n[INF/YTDLP-TERMUX]\033[0m\n\nCopie la url single-streaming de la plataforma de streaming que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL.\n\n"
 
 
-echo -e "\033[0;49;32m\n\nURL:\033[0m"
+echo -e -n "\033[0;49;32m\n\nURL: \033[0m"
 read u
 
 
@@ -63,7 +63,7 @@ echo -e "\033[0;49;32m\n\n\nEjemplo | ID/URL:\033[0m 978692127419239v \033[0;49;
 
 echo -e "\n\033[0;49;32mInf/ID/URL:\033[0m"
 echo -e "\nCopie y pegue el ID en ID/URL o digite.\n\n"
-echo -e "\033[0;49;32m\n\n ID/URL:\033[0m"
+echo -e -n "\033[0;49;32m\n\nID/URL: \033[0m"
 read iv
 
 

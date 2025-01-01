@@ -26,7 +26,8 @@ echo -e "\033[0;49;32m\n\nINF/YTDLP-TERMUX:\n\n\033[0m"
 echo -e "YTDLP-TERMUX ejecuta de forma legible o para un público general el extractor de urlstream YT-DLP\n\n\n"
 
 
-yes | termux-setup-storage
+
+
 
 echo -e "\033[0;49;32m\n\n[YTDLP-TERMUX/EJECUTANDOSE]\n\n\033[0m"
 sleep 1
@@ -78,7 +79,7 @@ yt-dlp -P "/data/data/com.termux/files/home/storage/downloads" --no-warnings -f 
 echo -e "\033[0;49;32m\n\n\n[Proceso/finalizado]\n\n\n\033[0m"
 
 echo -e "\033[0;49;32m[Inf/YTDLP-TERMUX]\033[0m"
-echo -e "\033[0;49;32m\n\n =>\033[0m Si la extracción fue exitosa, omita reintentar de nuevo.\n\n\033[0;49;32m =>\033[0m Si ocurre un error y finalizo el proceso sin obtener la extracción de la urlstream en formato almacenable en el directorio de DESCARGAS por defecto, verifique su conexión, la url, y constate los IDS de audio y video ingresados ante tal error, y reintente nuevamente, y si ocurren errores que requieran autenticación de cuenta o usuario omita esa plataforma e intente nuevamente con una urlstream de otra plataforma de streaming u de la misma plataforma streaming del mismo autor músical,etcétera."
+echo -e "\033[0;49;32m\n\n=>\033[0m Si la extracción fue exitosa, omita reintentar de nuevo.\n\n\033[0;49;32m=>\033[0m Si ocurre un error y finalizo el proceso sin obtener la extracción de la urlstream en formato almacenable en el directorio de DESCARGAS por defecto, verifique su conexión, la url, y constate los IDS de audio y video ingresados ante tal error, y reintente nuevamente, y si ocurren errores que requieran autenticación de cuenta o usuario omita esa plataforma e intente nuevamente con una urlstream de otra plataforma de streaming u de la misma plataforma streaming del mismo autor músical,etcétera."
 
 echo -e "\033[1;49;33m\n\n\n Frase de gracia, devoción y fe:\033[0m"
 

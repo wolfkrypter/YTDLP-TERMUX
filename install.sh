@@ -5,13 +5,13 @@ echo -e "\033[0;49;32m\n\nPermiso de acceso de almacenamiento a Termux automatiz
 sleep 2
 yes | termux-setup-storage 
 
-echo -e "\e[0;49;32m\n\nInstalando python y dependencias de python\n\n\033[0m"
+echo -e "\033[0;49;32m\n\nInstalando python y dependencias de python\n\n\033[0m"
 yes | pkg install python
 
 echo -e "\033[0;49;32m\n\nInstalando FFMPEG dependencia de YT-DLP\n\n\033[0m"
 yes | pkg install ffmpeg
 
-echo -e "\e[0;49;32m\n\nInstalando YT-DLP\n\n\033[0m"
+echo -e "\033[0;49;32m\n\nInstalando YT-DLP\n\n\033[0m"
 yes | pip install yt-dlp
 
 

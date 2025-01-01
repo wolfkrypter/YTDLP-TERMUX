@@ -53,6 +53,28 @@ legible YT-DLP en Termux.
 <img src="https://i.imgur.com/OkkFVTW.jpeg" alt="YTDLP-TERMUX/DEP-NO-INSTALLED-PYTHON">
 <h5>Ejemplo de dependencias Linux:</h5>
 <img src="https://i.imgur.com/WptjBDe.jpeg" alt="YTDLP-TERMUX/DEP-NO-INSTALLED-LINUX">
+
+
+<h4>Instalación manual de Dependencias:</h4>
+<h5>Inf/YTDLP-TERMUX:</h5>
+<p>La instalación manual de dependencias ayuda a solucionar errores de YTDLP-TERMUX visualizados mediante la verificación de dependencias.</p>
+
+<h5>Instalación de FFMPEG:</h5>
+<p>~ $ pkg install ffmpeg</p>
+<h5>Instalación de GIT:</h5>
+<p>~ $ pkg install git</p>
+<h5>Instalación de PYTHON:</h5>
+<p>~ $ pkg install python</p>
+<h5>INF/YTDLP-TERMUX:</h5>
+<p>Para instalar YT-DLP es necesario instalar primeramente PYTHON, ya que es una dependencia de PYTHON.
+<h5>Instalación de YT-DLP:</h5>
+<p>~ $ pip install yt-dlp</p>
+
+
+
+
+
+
 <h4>Desinstalación del repositorio o YTDLP-TERMUX:</h4>
 <h5>Eliminación unitaria:</h5>
 <p>~ $ cd YTDLP-TERMUX</p>

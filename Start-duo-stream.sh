@@ -32,7 +32,7 @@ echo -e "\n\033[0;49;32m[INFORMACIÓN/ALMACENAMIENTO]\033[0m\n\nLas descargas va
 
 
 echo -e "\033[0;49;32m\n\nEjemplo/URL:\033[0m\n\n"
-echo -e "https://m.youtube.com/watch?v=VuDAvwO9rRU&pp=ygUWQWxtaWdodHkgbWkgdGVzdGltb25pbw%3D%3D\n"
+echo -e "https://m.youtube.com/watch?v=VuDAvwO9rRU\n"
 echo -e "\033[0;49;32m\n\n[INF/YTDLP-TERMUX]\033[0m\n\n\nCopie la url duo-streaming,ej. YouTube, Vimeo,etcétera, que desea extraer y codificar en un formato almacenable u legible de Video y pegue en URL.\n\n"
 
 

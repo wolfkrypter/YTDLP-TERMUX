@@ -31,7 +31,9 @@ chmod +x start-audio-stream.com
 chmod +x start-single-stream.com
 
 
-mv start-duo-stream.com $PATH && mv start-audio-stream.com $PATH && mv start-single-stream.com $PATH
+mv start-duo-stream.com $PATH
+mv start-audio-stream.com $PATH
+mv start-single-stream.com $PATH
 
 
 

@@ -50,7 +50,7 @@ echo -e "\n\nDeslice hacía arriba e observe e elija el ID con la resolución y 
 
 echo -e "\033[0;49;32m\n\n[INFORMACIÓN/IDS | LISTA => FORMATOS]\033[0m"
 
-echo -e "\033[0;49;32m\n\n\nLos IDs de los formatos de audio y video se encuentran resaltados en verde con el tamaño de archivo en blanco, y en un orden de calidad de arriba a hacía abajo de menor a mayor, o de baja a media y alta calidad.\n\n\n"
+echo -e "\n\n\nLos IDs de los formatos de audio y video se encuentran resaltados en verde con el tamaño de archivo en blanco, y en un orden de calidad de arriba a hacía abajo de menor a mayor, o de baja a media y alta calidad.\n\n\n"
 
 echo -e "\033[0;49;32m\n\n\nEjemplo | ID/VIDEO:\033[0m 137\n"
 

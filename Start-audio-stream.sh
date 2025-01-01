@@ -42,6 +42,38 @@ echo -e "\n\n\nCopie la url de la plataforma de streaming que desea extraer el a
 
 echo -e "\033[32m" "\n\nURL:\033[0m"
 
+
+echo -e "\n\n[1] 128 Kbps"
+echo -e "\n[2] 320 Kbps"
+echo -e -n "\n[-] Digite selección:"
+read q
+
+if [ $q == 1 ]
+then
+echo -e "\033[32m" "\n\n\n[Inicializando/descarga]\033[0m\n"
+
+yt-dlp --force-overwrites -P "/storage/emulated/0/Download" --no-warnings -f "ba[vcodec=none][abr<=128]" --extract-audio --audio-format mp3 $u
+
+
+
+elif [ $q == 2 ]
+then
+echo -e "\033[32m" "\n\n\n[Inicializando/descarga]\033[0m\n"
+
+
+yt-dlp --force-overwrites -P "/storage/emulated/0/Download" --no-warnings -f "ba[vcodec=none][abr<=320]" --extract-audio --audio-format mp3 $u
+
+
+
+else
+
+echo -e "\n\n[Ingreso incorrecto]"
+
+
+
+fi
+
+
 # Comentarios o descripciones: read u, almacenaje de URL, y posición de $u variable de entrada URL e ingreso de la URL #
 
 read u
@@ -60,11 +92,14 @@ read u
 
 #Posicionamiento de variable de entrada de ruta de almacenamiento en el comando de ejecución de extracción de yt-dlp.
 
+
+
+
 #yt-dlp -P $rutalmacenamiento
 
 
 
-echo -e "\033[32m" "\n\n\n[Inicializando/descarga]\033[0m\n"
+
 
 #yt-dlp: Comando de ejecución de extracción YT-DLP
 # -P: Comando de especificación de ruta de almacenamiento de descarga o extracción u recodificación al almacenaje interno(0) o externo(1) modificable de forma interna, e externa, ejemplo de entrada de almacenamiento:
@@ -81,7 +116,6 @@ echo -e "\033[32m" "\n\n\n[Inicializando/descarga]\033[0m\n"
 
 #Comando yt-dlp de proceso de extracción u recodificación urlstream a formato almacenaje.
 
-yt-dlp --force-overwrites -P "/storage/emulated/0/Download" --no-warnings -f "ba[vcodec=none][abr<=320]" --extract-audio --audio-format mp3 $u
 
 
 

@@ -40,5 +40,5 @@ mv start-single-stream.com $PATH
 echo -e "\033[0;49;32m[\033[0mFinalización\033[0;49;32m/\033[0mInstalación\033[0;49;32m]\033[0m"
 
 
-echo -e "\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', e utilice según su preferencia.\n\n"
+echo -e "\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia.\n\n"
 

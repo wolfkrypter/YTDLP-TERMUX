@@ -17,7 +17,7 @@ legible YT-DLP en Termux.
 <h5>Plataformas:</h5>
 <p>Youtube,Vimeo,etcétera.</p>
 <p>~ $ Start-audio-stream.sh</p>
-<img src="https://i.imgur.com/S96M6Wo.jpeg" alt="YTDLP-TERMUX">
+<img src="https://i.imgur.com/QgJchbr.jpeg" alt="YTDLP-TERMUX">
 <h5>Extracción exitosa de audio:</h5>
 <img src="https://i.imgur.com/gxCmjfK.jpeg" alt="YTDLP-TERMUX">
 

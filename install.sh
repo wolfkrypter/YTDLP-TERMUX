@@ -26,12 +26,16 @@ echo -e "\033[0;49;32m\n\nInstalando YT-DLP\n\n\033[0m"
 yes | pip install yt-dlp
 
 
-chmod +x Start-duo-stream.sh
-chmod +x Start-audio-stream.sh
-chmod +x Start-single-stream.sh
-mv Start-duo-stream.sh /data/data/com.termux/files/usr/bin
-mv Start-audio-stream.sh /data/data/com.termux/files/usr/bin
-mv Start-single-stream.sh /data/data/com.termux/files/usr/bin
+chmod +x start-duo-stream.com
+chmod +x start-audio-stream.com
+chmod +x start-single-stream.com
+
+
+mv start-duo-stream.com /data/data/com.termux/files/usr/bin
+
+mv start-audio-stream.com /data/data/com.termux/files/usr/bin
+
+mv start-single-stream.com /data/data/com.termux/files/usr/bin
 
 
 

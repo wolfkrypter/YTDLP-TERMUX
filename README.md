@@ -33,7 +33,7 @@ legible YT-DLP en Termux.
 <p>Youtube,Vimeo,etcétera.</p>
 <p>~ $ start-audio-stream.com</p>
 <p>or</p>
-<p>~/YTDLP-TERMUX $ start-audio-stream.com
+<p>~/YTDLP-TERMUX $ start-audio-stream.com</p>
 <img src="https://i.imgur.com/QgJchbr.jpeg" alt="YTDLP-TERMUX">
 
 

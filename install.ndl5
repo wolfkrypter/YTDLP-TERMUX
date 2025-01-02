@@ -81,6 +81,16 @@ echo ""
 sleep 2
 echo -e "\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n\003[0m"
 sleep 5
+
+
+echo -e "\033[1;666;32m[\033[0m Digite \033[1;666;32m'\033[0mopción \033[1;666;32m9\033[0m\033[1;666;32m'\033[0m para salir del menú de instalación y ejecutar servicios de YTDLP-TERMUX \033[1;666;32m]\033[0m"
+
+
+
+sleep 7
+
+
+
 }
 
 
@@ -110,7 +120,17 @@ echo ""
 sleep 2
 echo -e "\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
 
-sleep 5
+sleep 4
+
+
+echo -e "\033[1;666;32m[\033[0m Digite \033[1;666;32m'\033[0mopción \033[1;666;32m9\033[0m\033[1;666;32m'\033[0m para salir del menú de instalación y ejecutar servicios de YTDLP-TERMUX \033[1;666;32m]\033[0m"
+
+
+
+sleep 7
+
+
+
 
 }
 
@@ -139,7 +159,16 @@ echo ""
 sleep 2
 echo -e "\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
 
-sleep 5
+sleep 4
+
+echo -e "\033[1;666;32m[\033[0m Digite \033[1;666;32m'\033[0mopción \033[1;666;32m9\033[0m\033[1;666;32m'\033[0m para salir del menú de instalación y ejecutar servicios de YTDLP-TERMUX \033[1;666;32m]\033[0m"
+
+
+
+sleep 7
+
+
+
 
 }
 
@@ -170,7 +199,19 @@ sleep 2
 
 echo -e "\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
 
-sleep 5
+sleep 4
+
+
+
+echo -e "\033[1;666;32m[\033[0m Digite \033[1;666;32m'\033[0mopción \033[1;666;32m9\033[0m\033[1;666;32m'\033[0m para salir del menú de instalación y ejecutar servicios de YTDLP-TERMUX \033[1;666;32m]\033[0m"
+
+
+sleep 7
+
+
+
+
+
 
 
 }
@@ -196,7 +237,17 @@ pip install yt-dlp
 echo ""
 sleep 2
 echo -e "\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
-sleep 5
+sleep 4
+
+
+
+echo -e "\033[1;666;32m[\033[0m Digite \033[1;666;32m'\033[0mopción \033[1;666;32m9\033[0m\033[1;666;32m'\033[0m para salir del menú de instalación y ejecutar servicios de YTDLP-TERMUX \033[1;666;32m]\033[0m"
+
+
+
+sleep 7
+
+
 
 }
 
@@ -224,9 +275,26 @@ echo ""
 sleep 2
 echo -e "\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
 
-sleep 5
+sleep 4
+
+
+
+echo -e "\033[1;666;32m[\033[0m Digite \033[1;666;32m'\033[0mopción \033[1;666;32m9\033[0m\033[1;666;32m'\033[0m para salir del menú de instalación y ejecutar servicios de YTDLP-TERMUX \033[1;666;32m]\033[0m"
+
+
+
+sleep 7
+
+
+
+
+
 
 }
+
+
+
+
 
 
 function sl7 {
@@ -251,7 +319,17 @@ pkg install python
 echo ""
 sleep 2
 echo -e "\n\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
-sleep 5
+
+sleep 4
+
+
+echo -e "\033[1;666;32m[\033[0m Digite \033[1;666;32m'\033[0mopción \033[1;666;32m9\033[0m\033[1;666;32m'\033[0m para salir del menú de instalación y ejecutar servicios de YTDLP-TERMUX \033[1;666;32m]\033[0m"
+
+
+sleep 7
+
+
+
 
 }
 
@@ -272,6 +350,8 @@ echo -e "\n\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de i
 
 
 echo -e "\033[1;666;32m[\033[0m Digite \033[1;666;32m'\033[0mopción \033[1;666;32m9\033[0m\033[1;666;32m'\033[0m para salir del menú de instalación y ejecutar servicios de YTDLP-TERMUX \033[1;666;32m]\033[0m"
+
+
 sleep 7
 
 

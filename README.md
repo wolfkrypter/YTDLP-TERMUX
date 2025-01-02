@@ -118,7 +118,7 @@ legible YT-DLP en Termux.
 <h4>Eliminación unitaria:</h4>
 <p>~ $ cd YTDLP-TERMUX</p>
 <p>~/YTDLP-TERMUX $ uninstall.ndl5</p>
-<p>~/YTDLP-TERMUX $ cd $PATH && rm -r install && cd && cd YTDLP-TERMUX</p>
+<p>~/YTDLP-TERMUX $ cd $PATH && rm -r install.ndl5 && cd && cd YTDLP-TERMUX</p>
 <p>~/YTDLP-TERMUX $ rm -r README.md</p>
 <p>~/YTDLP-TERMUX $ cd</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX</p>

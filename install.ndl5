@@ -1,42 +1,347 @@
 
-echo -e "\033[0;49;32m[\033[0mInstalación\033[0;49;32m/\033[0mDependencias\033[0;49;32m]\033[0m"
-
-echo -e "\n\nInstalando  y actualizando paquetes y dependencias por defecto de Termux\n\n"
-yes | pkg update && yes | pkg upgrade
 
 
 
-echo -e "\033[0;49;32m[\033[0mInstalación\033[0;49;32m/\033[0mPYTHON\033[0;49;32m]\033[0m"
-
-echo -e "\n\nInstalando python y dependencias de python\n\n"
-yes | pkg install python
+function mytermx {
 
 
 
-echo -e "\033[0;49;32m[\033[0mInstalación\033[0;49;32m/\033[0mFFMPEG\033[0;49;32m]\033[0m"
 
-echo -e "\n\nInstalando FFMPEG dependencia de YT-DLP\n\n"
-yes | pkg install ffmpeg
+echo ""
+echo ""
+echo -e "\033[1;49;32m#####  ##    #  #######  #########   #      #       #\033[0m"
+echo -e "\033[1;49;32m  #    # #   #  #            #      # #     #       #\033[0m"
+echo -e "\033[1;49;32m  #    #  #  #  #######      #     #   #    #       #\033[0m"
+echo -e "\033[1;49;32m  #    #   # #        #      #    #######   #       #\033[0m"
+echo -e "\033[1;49;32m#####  #    ##  #######      #   #       #  ######  ######\033[0m"
 
 
-echo -e "\033[0;49;32m[\033[0mInstalación\033[0;49;32m/\033[0mYT-DLP\033[0;49;32m]\033[0m"
+
+echo -e "\033[1;666;32m\n\nINF/YTDLP-TERMUX:\033[0m MENÚ DE INSTALACIÓN YTDLP-TERMUX\n\n"
+
+echo -e "\033[1;666;32mINF/SALIR/CANCEL:\033[0m OPCIÓN 9 | CTRL+Z | CTRL+C\n\n"
 
 
-echo -e "\033[0;49;32m\n\nInstalando YT-DLP\n\n\033[0m"
-pip install yt-dlp
+echo -e "\033[1;49;32m[1]\033[0m Instalar YTDLP-TERMUX y DEPENDENCIAS\033[1;49;32m\n[~] INF:\033[0m Recomendable en caso de no tener ninguna dependencia preinstalada."
+echo ""
+echo -e "\033[1;49;32m[2]\033[0m Instalar YTDLP-TERMUX y YT-DLP,FFMPEG\033[1;49;32m\n[~] INF:\033[0m Recomendable si ya tiene instalado PYTHON."
+echo ""
+echo -e "\033[1;49;32m[3]\033[0m Instalar YTDLP-TERMUX y FFMPEG\033[1;49;32m\n[~] INF:\033[0m Recomendable si ya tiene instalado PYTHON y YT-DLP."
+echo ""
+echo -e "\033[1;49;32m[4]\033[0m Instalar YTDLP-TERMUX y PYTHON\033[1;49;32m\n[~] INF:\033[0m Recomendable si ya tiene instalado FFMPEG y YT-DLP."
+echo ""
+echo -e "\033[1;49;32m[5]\033[0m Instalar YTDLP-TERMUX y YT-DLP\033[1;49;32m\n[~] INF:\033[0m Recomendable si ya tiene instalado FFMPEG y PYTHON."
+echo ""
+echo -e "\033[1;49;32m[6]\033[0m Instalar YTDLP-TERMUX y PYTHON,YT-DLP\033[1;49;32m\n[~] INF:\033[0m Recomendable si ya tiene instalado FFMPEG."
+echo ""
+echo -e "\033[1;49;32m[7]\033[0m Instalar YTDLP-TERMUX y FFMPEG,PYTHON\033[1;49;32m\n[~] INF:\033[0m Recomendable si ya tiene instalado YT-DLP."
+echo ""
+echo -e "\033[1;49;32m[8]\033[0m Instalar solo YTDLP-TERMUX\033[1;49;32m\n[~] INF:\033[0m Recomendable si ya tiene instalado todas las dependencias de linux y PYTHON requeridas para la ejecución de YTDLP-TERMUX, claro esta en TERMUX."
+echo ""
+echo -e "\033[1;49;32m[9]\033[0m Salir de INSTALACIÓN YTDLP-TERMUX\n\033[1;49;32m[~] INF: \033[0mSalir de instalación de YTDLP-TERMUX al finalizar el proceso de instalación,etcétera."
+echo ""
+echo -e -n "\033[1;49;32m[~] Digite selección: \033[0m"
+read sl
+
+sleep 1
+echo -e "\033[3;49;34m\n\nOUTPUT:\033[0m"
+
+
+
+}
+
+
+
+
+function sl1 {
+
+
+echo "\n\n\033[1;666;32m[\033[0mProcesando instalación\033[1;666;32m]\033[0m"
+echo ""
+
+
+
+sleep 1
 
 
 chmod +x start-duo-stream.com start-audio-stream.com start-single-stream.com
 
+mv start-duo-stream.com $PATH
+mv start-audio-stream.com $PATH
+mv start-single-stream.com $PATH    
+sleep 1
+
+echo ""
+pkg install ffmpeg
+echo ""
+pkg install python
+echo ""
+pip install yt-dlp
+echo ""
+sleep 2
+echo -e "\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n\003[0m"
+sleep 5
+}
+
+
+
+
+function sl2 {
+
+
+echo "\n\n\033[1;666;32m[\033[0mProcesando instalación\033[1;666;32m]\033[0m"
+echo ""
+
+sleep 1
+
+
+chmod +x start-duo-stream.com start-audio-stream.com start-single-stream.com
+
+mv start-duo-stream.com $PATH
+mv start-audio-stream.com $PATH
+mv start-single-stream.com $PATH
+
+sleep 1
+echo ""
+pkg install ffmpeg
+echo ""
+pip install yt-dlp
+echo ""
+sleep 2
+echo -e "\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
+
+sleep 5
+
+}
+
+
+
+function sl3 {
+    
+    
+echo "\n\n\033[1;666;32m[\033[0mProcesando instalación\033[1;666;32m]\033[0m"
+    
+    
+    
+     
+echo ""
+sleep 1
+chmod +x start-duo-stream.com start-audio-stream.com start-single-stream.com
+
+mv start-duo-stream.com $PATH
+mv start-audio-stream.com $PATH
+mv start-single-stream.com $PATH
+
+sleep 1
+echo ""
+pkg install ffmpeg
+echo ""
+sleep 2
+echo -e "\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
+
+sleep 5
+
+}
+
+
+
+
+
+function sl4 {
+
+
+echo "\n\n\033[1;666;32m[\033[0mProcesando instalación\033[1;666;32m]\033[0m"
+echo ""
+
+
+sleep 1
+chmod +x start-duo-stream.com start-audio-stream.com start-single-stream.com
+
+mv start-duo-stream.com $PATH
+mv start-audio-stream.com $PATH
+mv start-single-stream.com $PATH
+
+sleep 1
+echo ""
+pkg install python
+echo ""
+
+sleep 2
+
+echo -e "\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
+
+sleep 5
+
+
+}
+
+
+function sl5 {
+
+echo "\n\n\033[1;666;32m[\033[0mProcesando instalación\033[1;666;32m]\033[0m"
+
+echo ""
+
+sleep 1
+
+
+chmod +x start-duo-stream.com start-audio-stream.com start-single-stream.com
+
+mv start-duo-stream.com $PATH
+mv start-audio-stream.com $PATH
+mv start-single-stream.com $PATH
+
+echo ""
+pip install yt-dlp
+echo ""
+sleep 2
+echo -e "\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
+sleep 5
+
+}
+
+
+function sl6 {
+
+echo "\n\n\033[1;666;32m[\033[0mProcesando instalación\033[1;666;32m]\033[0m"
+echo ""
+
+
+sleep 1
+
+chmod +x start-duo-stream.com start-audio-stream.com start-single-stream.com
+
+mv start-duo-stream.com $PATH
+mv start-audio-stream.com $PATH
+mv start-single-stream.com $PATH
+
+sleep 1
+echo ""
+pkg install python
+echo ""
+pip install yt-dlp
+echo ""
+sleep 2
+echo -e "\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
+
+sleep 5
+
+}
+
+
+function sl7 {
+echo "\n\n\033[1;666;32m[\033[0mProcesando instalación\033[1;666;32m]\033[0m"
+echo ""
+
+
+sleep 1
+
+chmod +x start-duo-stream.com start-audio-stream.com start-single-stream.com
 
 mv start-duo-stream.com $PATH
 mv start-audio-stream.com $PATH
 mv start-single-stream.com $PATH
 
 
+sleep 1
+echo ""
+pkg install ffmpeg
+echo ""
+pkg install python
+echo ""
+sleep 2
+echo -e "\n\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
+sleep 5
 
-echo -e "\033[0;49;32m[\033[0mFinalización\033[0;49;32m/\033[0mInstalación\033[0;49;32m]\033[0m"
+}
 
 
-echo -e "\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia.\n\n"
+function sl8 {
+
+echo "\n\n\033[1;666;32m[\033[0mProcesando instalación\033[1;666;32m]\033[0m"
+echo ""
+sleep 1
+
+chmod +x start-duo-stream.com start-audio-stream.com start-single-stream.com
+
+mv start-duo-stream.com $PATH
+mv start-audio-stream.com $PATH
+mv start-single-stream.com $PATH
+sleep 2
+echo -e "\n\033[1;49;32m[~] INF/YTDLP-TERMUX:\033[0m\n\nFinalizo el proceso de instalación, para utilizar los servicios ofrecidos de YT-DLP en YTDLP-TERMUX visualice con el comando 'cat README.md' en el directorio del repositorio clonado YTDLP-TERMUX, ejemplo: '~ $ cat README.md', o en https://github.com/wolfkrypter/YTDLP-TERMUX e utilice según su preferencia al salir del proceso de INSTALACIÓN de YTDLP-TERMUX.\n\n"
+
+
+echo -e "\033[1;666;32m[\033[0m Digite \033[1;666;32m'\033[0mopción \033[1;666;32m9\033[0m\033[1;666;32m'\033[0m para salir del menú de instalación y ejecutar servicios de YTDLP-TERMUX \033[1;666;32m]\033[0m"
+sleep 7
+
+
+
+
+
+}
+
+
+
+function sl9 {
+
+
+sleep 1
+echo -e "\n\n\033[1;49;32m[Saliendo de INSTALACIÓN/YTDLP-TERMUX]\033[0;49;32m\n\n"
+exit
+sleep 2
+
+
+}
+
+
+
+
+
+
+end_script=0
+while [ "${end_script}" != 1 ];do
+    mytermx
+    case ${sl} in
+    1)
+        sl1
+    ;;
+
+    2)
+        sl2
+    ;;
+
+    3)
+        sl3
+    ;;
+
+    4)
+       sl4
+    ;;
+    
+    5)
+       sl5
+    ;;
+
+    6)
+       sl6
+    ;;
+
+    7)
+       sl7
+    ;;
+
+    8)
+       sl8
+    ;;
+    
+    9)
+       sl9
+    ;;
+
+    *)
+        echo -e "\033[1;49;32m\n\n[Entrada incorrecta]\033[0m\n\n"
+	sleep 4
+    ;;
+    esac
+done
 

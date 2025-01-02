@@ -26,9 +26,7 @@ echo -e "\033[0;49;32m\n\nInstalando YT-DLP\n\n\033[0m"
 yes | pip install yt-dlp
 
 
-chmod +x start-duo-stream.com
-chmod +x start-audio-stream.com
-chmod +x start-single-stream.com
+chmod +x start-duo-stream.com start-audio-stream.com start-single-stream.com
 
 
 mv start-duo-stream.com $PATH

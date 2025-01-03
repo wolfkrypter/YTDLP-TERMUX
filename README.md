@@ -126,5 +126,12 @@ legible YT-DLP en Termux.
 <h4>Procedimiento de desinstalación:</h4>
 <p>~ $ uninstall.ndl5</p>
 <img src="https://i.imgur.com/0qbIYT8.jpeg" alt="DESINSTALACIÓN/YTDLP-TERMUX">
+
+
+<p>~ $ apt autoremove</p>
+<p>~ $ yes | rm -r YTDLP-TERMUX</p>
+
+
+
 <p>~ $ cd $PATH && rm -r uninstall.ndl5 && cd</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX</p>

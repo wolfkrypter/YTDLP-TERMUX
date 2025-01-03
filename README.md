@@ -124,8 +124,8 @@ legible YT-DLP en Termux.
 
 <h3>Desinstalación del repositorio YTDLP-TERMUX:</h3>
 <h4>Procedimiento de desinstalación:</h4>
-INF:
-Al realizar el procedimiento de desinstalación lea detenidamente antes de procesar cada comando.
+<p>INF:</p>
+<p>Al realizar el procedimiento de desinstalación lea detenidamente antes de procesar cada comando.</p>
 <p>~ $ uninstall.ndl5</p>
 <p>~ $ cd $PATH && rm -r uninstall.ndl5 && cd</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX</p>

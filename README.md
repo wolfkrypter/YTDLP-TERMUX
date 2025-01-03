@@ -130,4 +130,4 @@ legible YT-DLP en Termux.
 
 <p>~ $ cd $PATH && rm -r uninstall.ndl5 && cd</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX</p>
-<p>~ $ echo -e "\033[3;666;31m\nFinalizo desinstalación\033[0m\n" && echo "yes | apt remove && yes | apt update && yes | apt upgrade" > END && chmod u+x END && ./END && echo -e "\n\033[3;666;31mZ\n"</p>
+<p>~ $ echo -e "\033[3;666;33m\nFinalizo desinstalación\033[0m\n" && echo "yes | apt remove && yes | apt update && yes | apt upgrade" > END && chmod u+x END && ./END && echo -e "\n\033[3;666;33mZ\n"</p>

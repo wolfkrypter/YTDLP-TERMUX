@@ -122,7 +122,7 @@ legible YT-DLP en Termux.
 
 
 
-<h3>Desinstalación manual del repositorio YTDLP-TERMUX:</h3>
+<h3>Desinstalación del repositorio YTDLP-TERMUX:</h3>
 <h4>Eliminación manual unitaria:</h4>
 <p>~ $ cd YTDLP-TERMUX</p>
 <p>~/YTDLP-TERMUX $ uninstall.ndl5</p>
@@ -130,7 +130,7 @@ legible YT-DLP en Termux.
 <p>~/YTDLP-TERMUX $ rm -r README.md</p>
 <p>~/YTDLP-TERMUX $ cd</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX</p>
-<h4>Eliminación manual pluritaria:</h4>
+<h4>Eliminación manual e automatizada pluritaria(Recomendable):</h4>
 <p>~ $ cd YTDLP-TERMUX</p>
 <p>~/YTDLP-TERMUX $ uninstall.ndl5</p>
 <p>~/YTDLP-TERMUX $ cd</p>

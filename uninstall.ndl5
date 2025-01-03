@@ -19,7 +19,7 @@ echo -e "\033[1;49;32m#######  #    ##  #######  #    ##  #######      #   #    
 
 
 
-echo -e "\033[1;666;32m\n\nINF/YTDLP-TERMUX:\033[0m MENÚ DE INSTALACIÓN YTDLP-TERMUX\n\n"
+echo -e "\033[1;666;32m\n\nINF/YTDLP-TERMUX:\033[0m MENÚ DE DESINSTALACIÓN YTDLP-TERMUX\n\n"
 
 echo -e "\033[1;666;32mINF/SALIR/CANCEL:\033[0m OPCIÓN 9 | CTRL+Z | CTRL+C\n\n"
 

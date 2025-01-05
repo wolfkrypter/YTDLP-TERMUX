@@ -63,7 +63,7 @@ legible YT-DLP en Termux.
 <p>~ $ start-single-stream.com</p>
 <p>or</p>
 <p>~/YTDLP-TERMUX $ start-single-stream.com</p>
-<img src="https://i.imgur.com/udIjvtt.jpeg" alt="YTDLP-TERMUX">
+<img src="https://i.imgur.com/RF9tiF2.jpeg" alt="YTDLP-TERMUX">
 
 
 

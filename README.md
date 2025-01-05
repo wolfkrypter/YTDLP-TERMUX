@@ -32,7 +32,7 @@ legible YT-DLP en Termux.
 
 
 <h4>Plataformas:</h4>
-<p>Youtube,Vimeo,etcétera.</p>
+<p>Youtube,Vimeo,Facebook,etcétera.</p>
 <p>~ $ start-audio-stream.com</p>
 <p>or</p>
 <p>~/YTDLP-TERMUX $ start-audio-stream.com</p>
@@ -43,7 +43,7 @@ legible YT-DLP en Termux.
 <img src="https://i.imgur.com/gxCmjfK.jpeg" alt="YTDLP-TERMUX">
 
 <h3>Ejecución de extracción Duo-Streaming/VIDEO:</h3>
-<h4>Plataformas:</h4> <p>Youtube,Vimeo,etcétera.</p>
+<h4>Plataformas:</h4> <p>Youtube,Vimeo,Instagram,Facebook,etcétera.</p>
 
 
 
@@ -59,7 +59,7 @@ legible YT-DLP en Termux.
 
 
 <h3>Ejecución de extracción de Single-Streaming/VIDEO:</h3>
-<h4>Plataformas:</h4> <p>Xvideos,Fig,Facebook,Instagram,etcétera.</p> 
+<h4>Plataformas:</h4> <p>Xvideos,etcétera.</p> 
 <p>~ $ start-single-stream.com</p>
 <p>or</p>
 <p>~/YTDLP-TERMUX $ start-single-stream.com</p>

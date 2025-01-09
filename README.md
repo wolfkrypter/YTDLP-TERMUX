@@ -36,7 +36,7 @@ legible YT-DLP en Termux.
 <p>~ $ start-audio-stream.com</p>
 <p>or</p>
 <p>~/YTDLP-TERMUX $ start-audio-stream.com</p>
-<img src="https://i.imgur.com/QgJchbr.jpeg" alt="YTDLP-TERMUX">
+<img src="https://i.imgur.com/NhYD8q0.jpeg" alt="YTDLP-TERMUX">
 
 
 <h4>Extracción exitosa de AUDIO-STREAM/YTDLP-TERMUX:</h4>

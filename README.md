@@ -2,7 +2,7 @@
 YTDLP-TERMUX ejecuta de forma
 legible YT-DLP en Termux.
 <p><strong>Status:</strong> Activa</p>
-<p><strong>Edición:</strong> 06/01/2025/12:53</p>
+<p><strong>Edición:</strong> 09/01/2025/23:54</p>
 <strong>Frase de gracia, devoción y fe:</strong>
 <p>"El Señor Jesucristo viene pronto,  M.24:25"</p>
 <p><strong>Versión:</strong> Legible</p>

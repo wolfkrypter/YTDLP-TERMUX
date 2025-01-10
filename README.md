@@ -7,6 +7,8 @@ legible YT-DLP en Termux.
 <p>"El Señor Jesucristo viene pronto,  M.24:25"</p>
 <p><strong>Versión:</strong> Legible</p>
 
+<p><strong>Error:</strong></p>
+<img src="https://i.imgur.com/CemUXrO.jpeg Alt="Error">
 
 
 <h2>Ejecución en Termux:</h2>

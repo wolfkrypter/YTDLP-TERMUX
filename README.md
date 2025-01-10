@@ -9,7 +9,8 @@ legible YT-DLP en Termux.
 
 <p><strong>Error:</strong></p>
 <img src="https://i.imgur.com/CemUXrO.jpeg Alt="Error">
-
+<p><strong>Bug/solucionado:</strong></p>
+<img src="https://i.imgur.com/nkdhFjz.jpeg">
 
 <h2>Ejecución en Termux:</h2>
 

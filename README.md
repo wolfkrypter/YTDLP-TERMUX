@@ -45,7 +45,7 @@ legible YT-DLP en Termux.
 
 
 
-<h2>Ejecuciones predeterminadas y disponibles del repositorio:</h2>
+<h2>Ejecuciones predeterminadas y disponibles del repositorio:</h2></br>
 
 <h3>Ejecución de extracción de Audio-Streaming:</h3>
 
@@ -59,7 +59,7 @@ legible YT-DLP en Termux.
 
 
 <h4>Extracción exitosa de AUDIO-STREAM/YTDLP-TERMUX:</h4>
-<img src="https://i.imgur.com/gxCmjfK.jpeg" alt="YTDLP-TERMUX">
+<img src="https://i.imgur.com/gxCmjfK.jpeg" alt="YTDLP-TERMUX"></br>
 
 <h3>Ejecución de extracción Duo-Streaming/VIDEO:</h3>
 <h4>Plataformas:</h4> <p>Youtube,Vimeo,Instagram,Facebook,etcétera.</p>
@@ -72,7 +72,7 @@ legible YT-DLP en Termux.
 <p>or</p>
 <p>~/YTDLP-TERMUX $ start-duo-stream.com</p>
 
-<img src="https://i.imgur.com/qhq9fFq.jpeg" alt="YTDLP-TERMUX">
+<img src="https://i.imgur.com/qhq9fFq.jpeg" alt="YTDLP-TERMUX"></br>
 
 
 
@@ -82,7 +82,7 @@ legible YT-DLP en Termux.
 <p>~ $ start-single-stream.com</p>
 <p>or</p>
 <p>~/YTDLP-TERMUX $ start-single-stream.com</p>
-<img src="https://i.imgur.com/RF9tiF2.jpeg" alt="YTDLP-TERMUX">
+<img src="https://i.imgur.com/RF9tiF2.jpeg" alt="YTDLP-TERMUX"></br>
 
 
 
@@ -91,7 +91,7 @@ legible YT-DLP en Termux.
 <p>1. FFMEPG</p>
 <p>2. PYTHON</p>
 <p>3. GIT</p>
-<p>4. YT-DLP</p>
+<p>4. YT-DLP</p></br>
 
 
 <h3>Verificación de dependencias YTDLP-TERMUX:</h3>

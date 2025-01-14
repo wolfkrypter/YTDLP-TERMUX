@@ -46,7 +46,7 @@ legible YT-DLP en Termux.
 
 
 
-<h2>Ejecuciones predeterminadas y disponibles del repositorio:</h2></br>
+<h2>Ejecuciones predeterminadas y disponibles del repositorio:</h2>
 
 <h3>Ejecución de extracción de Audio-Streaming:</h3>
 

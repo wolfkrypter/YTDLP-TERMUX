@@ -14,10 +14,8 @@ legible YT-DLP en Termux.
 
 <h2>Descarga e instalación de TERMUX</h2>
 
-<p>1)</p>
-<img src="https://i.imgur.com/JwRDaNK.jpeg">
-<p>2)</p>
-<img src="">
+<p>1)</p><img src="https://i.imgur.com/JwRDaNK.jpeg">
+<p>2)</p><img src="https://i.imgur.com/48MOGNw.jpeg">
 
 
 

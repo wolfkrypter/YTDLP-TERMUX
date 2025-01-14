@@ -14,23 +14,23 @@ legible YT-DLP en Termux.
 
 <h2>Descarga e instalación manual y segura de Termux(Recomendable)</h2>
 
-<p>1)</p><img src="https://i.imgur.com/JwRDaNK.jpeg">
-<p>2)</p><img src="https://i.imgur.com/48MOGNw.jpeg">
-<p>3)</p><img src="https://i.imgur.com/HSGQxw1.jpeg">
+<p><strong>1)</strong></p><img src="https://i.imgur.com/JwRDaNK.jpeg">
+<p><strong>2)</strong></p><img src="https://i.imgur.com/48MOGNw.jpeg">
+<p><strong>3)</strong></p><img src="https://i.imgur.com/HSGQxw1.jpeg">
 <p>URL DIRECTA DE DESCARGA DE TERMUX: https://f-droid.org/repo/com.termux_1020.apk</p>
 
-<p>4)</p><img src="https://i.imgur.com/P69nj54.jpeg">
+<p><strong>4)</strong></p><img src="https://i.imgur.com/P69nj54.jpeg">
 
-<p>5)</p><img src="https://i.imgur.com/itLtWEq.jpeg">
-<p>6)</p><img src="https://i.imgur.com/NPXZbfQ.jpeg">
-<p>7)</p><img src="https://i.imgur.com/gSPrGOP.jpeg">
+<p><strong>5)</strong></p><img src="https://i.imgur.com/itLtWEq.jpeg">
+<p><strong>6)</strong></p><img src="https://i.imgur.com/NPXZbfQ.jpeg">
+<p><strong>7)</strong></p><img src="https://i.imgur.com/gSPrGOP.jpeg">
 
-<p>8)</p><img src="https://i.imgur.com/Of0ag7V.jpeg">
-<p>9)</p><img src="https://i.imgur.com/G5jVtnd.jpeg">
+<p><strong>8)</strong></p><img src="https://i.imgur.com/Of0ag7V.jpeg">
+<p><strong>9)</strong></p><img src="https://i.imgur.com/G5jVtnd.jpeg">
 
-<p>10)</p><img src="https://i.imgur.com/8ppvMzM.jpeg">
-<p>11)</p><img src="https://i.imgur.com/7k2zaS9.jpeg">
-<p>12)</p><img src="https://i.imgur.com/bnNhDw1.jpeg">
+<p><strong>10)</strong></p><img src="https://i.imgur.com/8ppvMzM.jpeg">
+<p><strong>11)</strong></p><img src="https://i.imgur.com/7k2zaS9.jpeg">
+<p><strong>12)</strong></p><img src="https://i.imgur.com/bnNhDw1.jpeg">
 
 
 

@@ -2,7 +2,7 @@
 YTDLP-TERMUX ejecuta de forma
 legible YT-DLP en Termux.
 <p><strong>Status:</strong> Activa | Errores corregidos</p>
-<p><strong>Edición:</strong> 09/01/2025/23:54</p>
+<p><strong>Edición:</strong> 14/01/2025/00:54</p>
 <strong>Frase de gracia, devoción y fe:</strong>
 <p>"El Señor Jesucristo viene pronto,  M.24:25"</p>
 <p><strong>Versión:</strong> Legible</p>
@@ -12,7 +12,7 @@ legible YT-DLP en Termux.
 <p><strong>Bug/solucionado:</strong></p>
 <img src="https://i.imgur.com/nkdhFjz.jpeg">
 
-<h2>Descarga e instalación manual y segura de TERMUX(Recomendable)</h2>
+<h2>Descarga e instalación manual y segura de Termux(Recomendable)</h2>
 
 <p>1)</p><img src="https://i.imgur.com/JwRDaNK.jpeg">
 <p>2)</p><img src="https://i.imgur.com/48MOGNw.jpeg">

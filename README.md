@@ -6,12 +6,6 @@ legible YT-DLP en Termux.
 <strong>Frase de gracia, devoción y fe:</strong>
 <p>"El Señor Jesucristo viene pronto,  M.24:25"</p>
 <p><strong>Versión:</strong> Legible</p>
-
-<p><strong>Error:</strong></p>
-<img src="https://i.imgur.com/CemUXrO.jpeg Alt="Error">
-<p><strong>Bug/solucionado:</strong></p>
-<img src="https://i.imgur.com/nkdhFjz.jpeg">
-
 <h2>Descarga e instalación manual y segura de Termux(Recomendable)</h2>
 
 <p><strong>1)</strong></p><img src="https://i.imgur.com/JwRDaNK.jpeg">

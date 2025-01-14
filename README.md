@@ -25,6 +25,12 @@ legible YT-DLP en Termux.
 <p>6)</p><img src="https://i.imgur.com/NPXZbfQ.jpeg">
 <p>7)</p><img src="https://i.imgur.com/gSPrGOP.jpeg">
 
+<p>8)</p><img src="https://i.imgur.com/Of0ag7V.jpeg>
+
+
+
+
+
 <h2>Ejecución en Termux:</h2>
 
 

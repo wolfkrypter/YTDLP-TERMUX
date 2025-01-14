@@ -40,7 +40,7 @@ legible YT-DLP en Termux.
 
 <p>~ $ cd YTDLP-TERMUX</p>
 <p>~/YTDLP-TERMUX $ chmod +x install.ndl5 && chmod +x uninstall.ndl5 && mv install.ndl5 $PATH && mv uninstall.ndl5 $PATH && install.ndl5 && cd $PATH && rm -r install.ndl5 && cd</p>
-<img src="https://i.imgur.com/lE5En9P.jpeg" alt="YTDLP-TERMUX/INSTALL">
+<img src="https://i.imgur.com/lE5En9P.jpeg" alt="YTDLP-TERMUX/INSTALL"></br>
 
 
 

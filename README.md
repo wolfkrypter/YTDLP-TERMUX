@@ -119,7 +119,7 @@ legible YT-DLP en Termux.
 <h4>Ej. de dependencias Linux:</h4>
 <img src="https://i.imgur.com/WptjBDe.jpeg" alt="YTDLP-TERMUX/DEP-NO-INSTALLED-LINUX">
 
-
+<br>
 <h3>Instalación manual de Dependencias:</h3>
 <h4>Inf/YTDLP-TERMUX:</h4>
 <p>La instalación manual de dependencias ayuda a solucionar errores de YTDLP-TERMUX predichos y visualizados en la verificación de dependencias y mediante la verificación de dependencias.</p>
@@ -141,7 +141,7 @@ legible YT-DLP en Termux.
 
 
 
-
+<br>
 <h3>Desinstalación del repositorio YTDLP-TERMUX:</h3>
 <h4>Procedimiento de desinstalación:</h4>
 <p>~ $ uninstall.ndl5</p>

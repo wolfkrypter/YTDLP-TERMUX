@@ -12,6 +12,18 @@ legible YT-DLP en Termux.
 <p><strong>Bug/solucionado:</strong></p>
 <img src="https://i.imgur.com/nkdhFjz.jpeg">
 
+<h2>Descarga e instalación de TERMUX</h2>
+
+<p>1)</p>
+<img src="https://i.imgur.com/JwRDaNK.jpeg">
+<p>2)</p>
+<img src="">
+
+
+
+
+
+
 <h2>Ejecución en Termux:</h2>
 
 

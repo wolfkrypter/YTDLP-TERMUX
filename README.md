@@ -73,12 +73,9 @@ legible YT-DLP en Termux.
 <p>or</p>
 <p>~/YTDLP-TERMUX $ start-duo-stream.com</p>
 
-<img src="https://i.imgur.com/qhq9fFq.jpeg" alt="YTDLP-TERMUX"><br/>
+<img src="https://i.imgur.com/qhq9fFq.jpeg" alt="YTDLP-TERMUX">
 
-
-
-
-<h3>Ejecución de extracción de Single-Streaming/VIDEO:</h3>
+</br><h3>Ejecución de extracción de Single-Streaming/VIDEO:</h3>
 <h4>Plataformas:</h4> <p>Xvideos,etcétera.</p> 
 <p>~ $ start-single-stream.com</p>
 <p>or</p>

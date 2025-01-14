@@ -73,7 +73,7 @@ legible YT-DLP en Termux.
 <p>or</p>
 <p>~/YTDLP-TERMUX $ start-duo-stream.com</p>
 
-<img src="https://i.imgur.com/qhq9fFq.jpeg" alt="YTDLP-TERMUX"></br>
+<img src="https://i.imgur.com/qhq9fFq.jpeg" alt="YTDLP-TERMUX"><br>
 
 
 

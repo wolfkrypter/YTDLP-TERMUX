@@ -24,7 +24,7 @@ legible YT-DLP en Termux.
 
 <p><strong>10)</strong></p><img src="https://i.imgur.com/8ppvMzM.jpeg">
 <p><strong>11)</strong></p><img src="https://i.imgur.com/7k2zaS9.jpeg">
-<p><strong>12)</strong></p><img src="https://i.imgur.com/bnNhDw1.jpeg">
+<p><strong>12)</strong></p><img src="https://i.imgur.com/bnNhDw1.jpeg"></br>
 
 
 

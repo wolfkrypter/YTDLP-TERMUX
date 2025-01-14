@@ -14,7 +14,7 @@ legible YT-DLP en Termux.
 
 <h2>Descarga e instalación de TERMUX</h2>
 
-<p>1)</p><img src="https://i.imgur.com/JwRDaNK.jpeg">
+<p>1)<img src="https://i.imgur.com/JwRDaNK.jpeg"></p>
 <p>2)</p><img src="https://i.imgur.com/48MOGNw.jpeg">
 <p>3)</p><img src="https://i.imgur.com/HSGQxw1.jpeg">
 <p>URL DIRECTA DE DESCARGA DE TERMUX: https://f-droid.org/repo/com.termux_1020.apk</p>

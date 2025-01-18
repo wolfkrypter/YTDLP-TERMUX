@@ -34,7 +34,7 @@ legible YT-DLP en Termux.
 
 <h3>Instalación de repositorio:</h3>
 
-
+<p>~ $ yes | termux-setup-storage</p>
 <p>~ $ yes | pkg update && yes | pkg upgrade</p>
 <p>~ $ yes | pkg install git</p>
 <p>~ $ git clone https://github.com/wolfkrypter/YTDLP-TERMUX.git</p>
